@@ -1,0 +1,584 @@
+2014-08-08 10:08:51 INFO  Integrator:37 - START
+2014-08-08 10:08:52 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 10:08:52 INFO  Integrator:64 - END
+2014-08-08 10:08:56 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 10:08:56 INFO  MainFrame:54 - Initializing....
+2014-08-08 10:08:56 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 10:08:56 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 10:08:56 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 10:08:56 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 10:08:56 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 10:08:56 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 10:08:56 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 10:08:56 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 10:08:56 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 10:08:56 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-08 10:08:56 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 10:08:56 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 10:08:56 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 10:08:56 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 10:08:56 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-08 10:08:56 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 10:08:56 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 10:08:56 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 10:08:56 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 10:08:56 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 10:08:56 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 10:14:34 INFO  TabPanelBillingInfoPanelBottom:288 - Non production environment.
+2014-08-08 10:14:38 INFO  TabPanelBillingInfoPanelBottom:343 - No advice about Kenan flow.
+2014-08-08 10:14:40 INFO  TabPanelBillingInfoPanelBottom:343 - No advice about Kenan flow.
+2014-08-08 10:14:42 INFO  TabPanelBillingInfoPanelBottom:343 - No advice about Kenan flow.
+2014-08-08 10:26:02 INFO  Integrator:37 - START
+2014-08-08 10:26:02 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 10:26:02 INFO  Integrator:64 - END
+2014-08-08 10:26:06 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 10:26:06 INFO  MainFrame:54 - Initializing....
+2014-08-08 10:26:06 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 10:26:06 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 10:26:06 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 10:26:06 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 10:26:06 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 10:26:06 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 10:26:06 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 10:26:06 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 10:26:06 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 10:26:06 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-08 10:26:06 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 10:26:06 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 10:26:06 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 10:26:06 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 10:26:06 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-08 10:26:06 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 10:26:06 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 10:26:06 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 10:26:06 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 10:26:06 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 10:26:06 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 10:31:40 INFO  Integrator:37 - START
+2014-08-08 10:31:40 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 10:31:40 INFO  Integrator:64 - END
+2014-08-08 10:31:44 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 10:31:44 INFO  MainFrame:54 - Initializing....
+2014-08-08 10:31:44 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 10:31:44 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 10:31:44 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 10:31:44 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 10:31:44 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 10:31:44 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 10:31:44 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 10:31:44 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 10:31:44 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 10:31:44 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-08 10:31:44 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 10:31:44 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 10:31:44 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 10:31:45 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 10:31:45 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-08 10:31:45 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 10:31:45 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 10:31:45 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 10:31:45 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 10:31:45 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 10:31:45 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 10:41:59 INFO  Integrator:37 - START
+2014-08-08 10:41:59 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 10:41:59 INFO  Integrator:64 - END
+2014-08-08 10:42:03 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 10:42:03 INFO  MainFrame:54 - Initializing....
+2014-08-08 10:42:03 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 10:42:03 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 10:42:03 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 10:42:03 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 10:42:03 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 10:42:03 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 10:42:03 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 10:42:03 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 10:42:03 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 10:42:03 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-08 10:42:03 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 10:42:03 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 10:42:03 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 10:42:03 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 10:42:03 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-08 10:42:03 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 10:42:03 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 10:42:03 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 10:42:04 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 10:42:04 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 10:42:04 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 11:16:02 INFO  Integrator:37 - START
+2014-08-08 11:16:02 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 11:16:02 INFO  Integrator:64 - END
+2014-08-08 11:16:06 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 11:16:06 INFO  MainFrame:54 - Initializing....
+2014-08-08 11:16:06 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 11:16:06 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 11:16:06 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 11:16:06 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 11:16:06 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 11:16:06 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 11:16:06 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 11:16:06 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 11:16:06 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 11:16:06 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-08 11:16:06 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 11:16:06 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 11:16:06 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 11:16:06 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 11:16:06 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-08 11:16:06 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 11:16:06 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 11:16:06 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 11:16:06 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 11:16:06 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 11:16:06 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 15:16:59 INFO  Integrator:37 - START
+2014-08-08 15:16:59 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 15:16:59 INFO  Integrator:64 - END
+2014-08-08 15:17:03 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 15:17:03 INFO  MainFrame:54 - Initializing....
+2014-08-08 15:17:03 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 15:17:03 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 15:17:03 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 15:17:03 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 15:17:03 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 15:17:03 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 15:17:03 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 15:17:03 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 15:17:03 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: integrator.database.settings (O sistema não pode encontrar o arquivo especificado)
+2014-08-08 15:17:03 WARN  TabPanelSettingsEnvironmentsPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 15:17:03 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 15:17:03 DEBUG TabPanelSettingsEnvironmentsPanel:78 - No settings to load this time.
+2014-08-08 15:17:03 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 15:17:03 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 15:17:03 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 15:17:03 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: integrator.database.settings (O sistema não pode encontrar o arquivo especificado)
+2014-08-08 15:17:03 WARN  TabPanelSettingsDatabasesPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 15:17:03 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 15:17:03 DEBUG TabPanelSettingsDatabasesPanel:78 - No settings to load this time.
+2014-08-08 15:17:03 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 15:17:03 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 15:17:03 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 15:17:04 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 15:17:04 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 15:17:04 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 15:18:51 INFO  Integrator:37 - START
+2014-08-08 15:18:51 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 15:18:51 INFO  Integrator:64 - END
+2014-08-08 15:18:55 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 15:18:55 INFO  MainFrame:54 - Initializing....
+2014-08-08 15:18:55 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 15:18:55 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 15:18:55 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 15:18:55 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 15:18:55 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 15:18:55 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 15:18:55 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 15:18:55 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 15:18:55 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: integrator.database.settings (O sistema não pode encontrar o arquivo especificado)
+2014-08-08 15:18:55 WARN  TabPanelSettingsEnvironmentsPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 15:18:55 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 15:18:55 DEBUG TabPanelSettingsEnvironmentsPanel:78 - No settings to load this time.
+2014-08-08 15:18:55 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 15:18:55 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 15:18:55 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 15:18:55 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: integrator.database.settings (O sistema não pode encontrar o arquivo especificado)
+2014-08-08 15:18:55 WARN  TabPanelSettingsDatabasesPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 15:18:55 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 15:18:55 DEBUG TabPanelSettingsDatabasesPanel:78 - No settings to load this time.
+2014-08-08 15:18:55 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 15:18:55 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 15:18:55 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 15:18:56 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 15:18:56 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 15:18:56 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 15:20:43 INFO  Integrator:37 - START
+2014-08-08 15:20:43 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 15:20:43 INFO  Integrator:64 - END
+2014-08-08 15:20:47 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 15:20:47 INFO  MainFrame:54 - Initializing....
+2014-08-08 15:20:47 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 15:20:47 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 15:20:47 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 15:20:48 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 15:20:48 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 15:20:48 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 15:20:48 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 15:20:48 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 15:20:48 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: br.com.gvt.integrator.dto.SettingsDTO
+2014-08-08 15:20:48 WARN  TabPanelSettingsEnvironmentsPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 15:20:48 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 15:20:48 DEBUG TabPanelSettingsEnvironmentsPanel:78 - No settings to load this time.
+2014-08-08 15:20:48 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 15:20:48 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 15:20:48 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 15:20:48 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: br.com.gvt.integrator.dto.SettingsDTO
+2014-08-08 15:20:48 WARN  TabPanelSettingsDatabasesPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 15:20:48 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 15:20:48 DEBUG TabPanelSettingsDatabasesPanel:78 - No settings to load this time.
+2014-08-08 15:20:48 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 15:20:48 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 15:20:48 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 15:20:48 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 15:20:48 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 15:20:48 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 15:24:54 INFO  Integrator:37 - START
+2014-08-08 15:24:54 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 15:24:54 INFO  Integrator:64 - END
+2014-08-08 15:24:58 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 15:24:58 INFO  MainFrame:54 - Initializing....
+2014-08-08 15:24:58 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 15:24:58 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 15:24:58 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 15:24:58 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 15:24:58 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 15:24:58 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 15:24:58 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 15:24:58 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 15:24:58 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: br.com.gvt.integrator.dto.SettingsDTO
+2014-08-08 15:24:58 WARN  TabPanelSettingsEnvironmentsPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 15:24:58 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 15:24:58 DEBUG TabPanelSettingsEnvironmentsPanel:78 - No settings to load this time.
+2014-08-08 15:24:58 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 15:24:58 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 15:24:58 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 15:24:58 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: br.com.gvt.integrator.dto.SettingsDTO
+2014-08-08 15:24:58 WARN  TabPanelSettingsDatabasesPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 15:24:58 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 15:24:58 DEBUG TabPanelSettingsDatabasesPanel:78 - No settings to load this time.
+2014-08-08 15:24:58 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 15:24:58 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 15:24:58 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 15:24:59 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 15:24:59 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 15:24:59 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 15:25:31 INFO  Integrator:37 - START
+2014-08-08 15:25:31 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 15:25:31 INFO  Integrator:64 - END
+2014-08-08 15:25:35 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 15:25:35 INFO  MainFrame:54 - Initializing....
+2014-08-08 15:25:35 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 15:25:35 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 15:25:35 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 15:25:35 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 15:25:35 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 15:25:35 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 15:25:35 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 15:25:35 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 15:25:35 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: br.com.gvt.integrator.dto.SettingsDTO
+2014-08-08 15:25:35 WARN  TabPanelSettingsEnvironmentsPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 15:25:35 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 15:25:35 DEBUG TabPanelSettingsEnvironmentsPanel:78 - No settings to load this time.
+2014-08-08 15:25:35 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 15:25:35 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 15:25:35 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 15:25:35 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: br.com.gvt.integrator.dto.SettingsDTO
+2014-08-08 15:25:35 WARN  TabPanelSettingsDatabasesPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 15:25:35 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 15:25:35 DEBUG TabPanelSettingsDatabasesPanel:78 - No settings to load this time.
+2014-08-08 15:25:35 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 15:25:35 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 15:25:35 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 15:25:36 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 15:25:36 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 15:25:36 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 15:28:01 INFO  Integrator:37 - START
+2014-08-08 15:28:01 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 15:28:01 INFO  Integrator:64 - END
+2014-08-08 15:28:05 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 15:28:05 INFO  MainFrame:54 - Initializing....
+2014-08-08 15:28:05 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 15:28:05 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 15:28:05 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 15:28:05 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 15:28:05 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 15:28:05 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 15:28:05 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 15:28:05 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 15:28:05 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 15:28:05 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-08 15:28:05 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 15:28:05 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 15:28:05 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 15:28:05 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 15:28:05 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-08 15:28:05 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 15:28:05 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 15:28:05 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 15:28:05 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 15:28:05 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 15:28:05 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 15:28:09 INFO  TabPanelSettingsEnvironmentsToolBar:55 - Saving environments...
+2014-08-08 15:28:10 INFO  TabPanelSettingsEnvironmentsToolBar:80 - Environments saved!
+2014-08-08 15:30:42 INFO  Integrator:37 - START
+2014-08-08 15:30:42 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 15:30:42 INFO  Integrator:64 - END
+2014-08-08 15:30:46 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 15:30:46 INFO  MainFrame:54 - Initializing....
+2014-08-08 15:30:46 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 15:30:46 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 15:30:46 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 15:30:46 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 15:30:46 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 15:30:46 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 15:30:46 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 15:30:46 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 15:30:46 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: br.com.gvt.integrator.dto.SettingsDTO
+2014-08-08 15:30:46 WARN  TabPanelSettingsEnvironmentsPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 15:30:46 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 15:30:46 DEBUG TabPanelSettingsEnvironmentsPanel:78 - No settings to load this time.
+2014-08-08 15:30:46 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 15:30:46 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 15:30:46 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 15:30:46 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: br.com.gvt.integrator.dto.SettingsDTO
+2014-08-08 15:30:46 WARN  TabPanelSettingsDatabasesPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 15:30:46 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 15:30:46 DEBUG TabPanelSettingsDatabasesPanel:78 - No settings to load this time.
+2014-08-08 15:30:46 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 15:30:46 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 15:30:46 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 15:30:46 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 15:30:46 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 15:30:46 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 15:31:34 INFO  TabPanelSettingsEnvironmentsToolBar:55 - Saving environments...
+2014-08-08 15:31:35 INFO  TabPanelSettingsEnvironmentsToolBar:80 - Environments saved!
+2014-08-08 15:31:36 INFO  TabPanelSettingsEnvironmentsToolBar:55 - Saving environments...
+2014-08-08 15:31:37 INFO  TabPanelSettingsEnvironmentsToolBar:80 - Environments saved!
+2014-08-08 15:31:53 INFO  Integrator:37 - START
+2014-08-08 15:31:53 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 15:31:53 INFO  Integrator:64 - END
+2014-08-08 15:31:57 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 15:31:57 INFO  MainFrame:54 - Initializing....
+2014-08-08 15:31:57 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 15:31:57 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 15:31:57 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 15:31:57 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 15:31:57 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 15:31:57 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 15:31:57 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 15:31:57 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 15:31:57 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 15:31:57 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-08 15:31:57 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 15:31:57 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 15:31:57 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 15:31:57 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 15:31:57 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-08 15:31:57 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 15:31:57 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 15:31:57 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 15:31:57 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 15:31:57 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 15:31:57 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 15:36:06 INFO  Integrator:37 - START
+2014-08-08 15:36:06 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 15:36:06 INFO  Integrator:64 - END
+2014-08-08 15:36:11 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 15:36:11 INFO  MainFrame:54 - Initializing....
+2014-08-08 15:36:11 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 15:36:11 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 15:36:11 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 15:36:11 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 15:36:11 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 15:36:11 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 15:36:11 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 15:36:11 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 15:36:11 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 15:36:11 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-08 15:36:11 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 15:36:11 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 15:36:11 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 15:36:11 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: integrator.database.settings (O sistema não pode encontrar o arquivo especificado)
+2014-08-08 15:36:11 WARN  TabPanelSettingsDatabasesPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 15:36:11 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 15:36:11 DEBUG TabPanelSettingsDatabasesPanel:78 - No settings to load this time.
+2014-08-08 15:36:11 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 15:36:11 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 15:36:11 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 15:36:11 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 15:36:11 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 15:36:11 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 16:56:02 INFO  Integrator:37 - START
+2014-08-08 16:56:02 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 16:56:02 INFO  Integrator:64 - END
+2014-08-08 16:56:06 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 16:56:06 INFO  MainFrame:54 - Initializing....
+2014-08-08 16:56:06 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 16:56:06 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 16:56:06 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 16:56:06 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 16:56:06 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 16:56:06 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 16:56:06 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 16:56:06 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 16:56:06 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: br.com.gvt.integrator.dto.SettingsEnvironmentsDTO
+2014-08-08 16:56:06 WARN  TabPanelSettingsEnvironmentsPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 16:56:06 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 16:56:06 DEBUG TabPanelSettingsEnvironmentsPanel:78 - No settings to load this time.
+2014-08-08 16:56:06 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 16:56:06 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 16:56:06 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 16:56:06 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: integrator.database.settings (O sistema não pode encontrar o arquivo especificado)
+2014-08-08 16:56:06 WARN  TabPanelSettingsDatabasesPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 16:56:06 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 16:56:06 DEBUG TabPanelSettingsDatabasesPanel:78 - No settings to load this time.
+2014-08-08 16:56:06 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 16:56:06 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 16:56:06 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 16:56:07 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 16:56:07 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 16:56:07 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 16:57:29 INFO  Integrator:37 - START
+2014-08-08 16:57:29 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 16:57:29 INFO  Integrator:64 - END
+2014-08-08 16:57:33 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 16:57:33 INFO  MainFrame:54 - Initializing....
+2014-08-08 16:57:33 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 16:57:33 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 16:57:33 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 16:57:33 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 16:57:33 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 16:57:33 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 16:57:33 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 16:57:33 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 16:57:33 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: br.com.gvt.integrator.dto.SettingsEnvironmentsDTO
+2014-08-08 16:57:33 WARN  TabPanelSettingsEnvironmentsPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 16:57:33 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 16:57:33 DEBUG TabPanelSettingsEnvironmentsPanel:78 - No settings to load this time.
+2014-08-08 16:57:33 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 16:57:33 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 16:57:33 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 16:57:33 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: integrator.database.settings (O sistema não pode encontrar o arquivo especificado)
+2014-08-08 16:57:33 WARN  TabPanelSettingsDatabasesPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 16:57:33 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 16:57:33 DEBUG TabPanelSettingsDatabasesPanel:78 - No settings to load this time.
+2014-08-08 16:57:33 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 16:57:33 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 16:57:33 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 16:57:34 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 16:57:34 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 16:57:34 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 16:57:40 INFO  TabPanelSettingsEnvironmentsToolBar:55 - Saving environments...
+2014-08-08 16:57:42 INFO  TabPanelSettingsEnvironmentsToolBar:80 - Environments saved!
+2014-08-08 16:57:48 INFO  Integrator:37 - START
+2014-08-08 16:57:48 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 16:57:48 INFO  Integrator:64 - END
+2014-08-08 16:57:52 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 16:57:52 INFO  MainFrame:54 - Initializing....
+2014-08-08 16:57:52 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 16:57:52 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 16:57:52 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 16:57:52 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 16:57:52 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 16:57:52 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 16:57:52 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 16:57:52 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 16:57:52 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 16:57:52 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-08 16:57:52 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 16:57:52 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 16:57:52 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 16:57:52 ERROR Util$FileSystem:118 - Error while trying to read the object from the filesystem: integrator.database.settings (O sistema não pode encontrar o arquivo especificado)
+2014-08-08 16:57:52 WARN  TabPanelSettingsDatabasesPanel:58 - Settings file could not be loaded! (First time running?)
+2014-08-08 16:57:52 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 16:57:52 DEBUG TabPanelSettingsDatabasesPanel:78 - No settings to load this time.
+2014-08-08 16:57:52 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 16:57:52 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 16:57:52 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 16:57:52 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 16:57:52 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 16:57:52 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 16:58:18 INFO  TabPanelSettingsEnvironmentsToolBar:55 - Saving environments...
+2014-08-08 16:58:19 INFO  TabPanelSettingsEnvironmentsToolBar:80 - Environments saved!
+2014-08-08 16:59:21 INFO  TabPanelSettingsDatabasesToolBar:55 - Saving database settings...
+2014-08-08 16:59:24 INFO  TabPanelSettingsDatabasesToolBar:94 - Environments saved!
+2014-08-08 16:59:29 INFO  Integrator:37 - START
+2014-08-08 16:59:29 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 16:59:29 INFO  Integrator:64 - END
+2014-08-08 16:59:33 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 16:59:33 INFO  MainFrame:54 - Initializing....
+2014-08-08 16:59:33 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 16:59:33 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 16:59:33 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 16:59:33 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 16:59:33 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 16:59:33 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 16:59:33 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 16:59:33 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 16:59:33 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 16:59:33 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-08 16:59:33 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 16:59:33 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 16:59:33 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 16:59:33 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 16:59:33 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-08 16:59:33 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 16:59:33 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 16:59:33 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 16:59:33 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 16:59:33 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 16:59:33 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 17:09:18 INFO  Integrator:37 - START
+2014-08-08 17:09:18 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 17:09:18 INFO  Integrator:64 - END
+2014-08-08 17:09:22 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 17:09:22 INFO  MainFrame:54 - Initializing....
+2014-08-08 17:09:22 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 17:09:22 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 17:09:22 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 17:09:22 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 17:09:22 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 17:09:22 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 17:09:22 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 17:09:22 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 17:09:22 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 17:09:22 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-08 17:09:22 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 17:09:22 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 17:09:22 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 17:09:22 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 17:09:22 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-08 17:09:22 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 17:09:22 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 17:09:22 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 17:09:22 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 17:09:22 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 17:09:22 INFO  MainFrame:92 - Finished main frame initialization.
+2014-08-08 17:09:30 INFO  TabPanelSettingsEnvironmentsToolBar:55 - Saving environments...
+2014-08-08 17:09:33 INFO  TabPanelSettingsEnvironmentsToolBar:80 - Environments saved!
+2014-08-08 17:09:35 INFO  TabPanelSettingsDatabasesToolBar:55 - Saving database settings...
+2014-08-08 17:09:38 INFO  TabPanelSettingsDatabasesToolBar:94 - Environments saved!
+2014-08-08 17:09:40 INFO  TabPanelSettingsDatabasesToolBar:55 - Saving database settings...
+2014-08-08 17:09:45 INFO  TabPanelSettingsDatabasesToolBar:94 - Environments saved!
+2014-08-08 17:09:47 INFO  TabPanelSettingsEnvironmentsToolBar:55 - Saving environments...
+2014-08-08 17:09:48 INFO  TabPanelSettingsEnvironmentsToolBar:80 - Environments saved!
+2014-08-08 17:14:59 INFO  TabPanelSettingsDatabasesToolBar:55 - Saving database settings...
+2014-08-08 17:15:00 INFO  TabPanelSettingsDatabasesToolBar:94 - Environments saved!
+2014-08-08 17:15:51 INFO  TabPanelSettingsDatabasesToolBar:55 - Saving database settings...
+2014-08-08 17:15:53 INFO  TabPanelSettingsDatabasesToolBar:94 - Environments saved!
+2014-08-08 17:16:06 INFO  Integrator:37 - START
+2014-08-08 17:16:06 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-08 17:16:06 INFO  Integrator:64 - END
+2014-08-08 17:16:10 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-08 17:16:10 INFO  MainFrame:54 - Initializing....
+2014-08-08 17:16:10 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-08 17:16:10 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-08 17:16:10 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-08 17:16:10 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-08 17:16:10 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-08 17:16:10 DEBUG MainFrame:66 - Menu bar created.
+2014-08-08 17:16:10 DEBUG MainFrame:70 - Main panel created.
+2014-08-08 17:16:10 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-08 17:16:11 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-08 17:16:11 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-08 17:16:11 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-08 17:16:11 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-08 17:16:11 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-08 17:16:11 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-08 17:16:11 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-08 17:16:11 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-08 17:16:11 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-08 17:16:11 INFO  TabPanelBilling:64 - Initializing....
+2014-08-08 17:16:11 INFO  TabPanelBilling:74 - Finished panel initialization.
+2014-08-08 17:16:11 DEBUG MainFrame:82 - Billing panel created.
+2014-08-08 17:16:11 INFO  MainFrame:92 - Finished main frame initialization.

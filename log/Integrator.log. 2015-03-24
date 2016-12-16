@@ -1,0 +1,202 @@
+2015-03-20 17:01:48 INFO  Integrator:33 - START
+2015-03-20 17:01:49 DEBUG Integrator:60 - Main frame executing on its own thread.
+2015-03-20 17:01:49 INFO  Integrator:61 - END
+2015-03-20 17:01:57 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-20 17:01:57 INFO  MainFrame:54 - Initializing....
+2015-03-20 17:01:57 DEBUG MainFrame:66 - Main panel created.
+2015-03-20 17:01:57 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2015-03-20 17:01:58 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2015-03-20 17:01:58 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2015-03-20 17:01:58 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2015-03-20 17:01:58 DEBUG MainFrame:70 - Environment settings panel created.
+2015-03-20 17:01:58 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2015-03-20 17:01:59 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2015-03-20 17:01:59 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2015-03-20 17:01:59 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2015-03-20 17:01:59 DEBUG MainFrame:74 - JDBC settings panel created.
+2015-03-20 17:01:59 INFO  TabPanelBilling:71 - Initializing....
+2015-03-20 17:02:00 INFO  TabPanelBilling:81 - Finished panel initialization.
+2015-03-20 17:02:00 DEBUG MainFrame:79 - Billing panel created.
+2015-03-20 17:02:00 INFO  MainFrameMenuBar:64 - Creating Frame Menu Bar....
+2015-03-20 17:02:00 DEBUG MainFrameMenuBar:144 - File menu created.
+2015-03-20 17:02:00 DEBUG MainFrameMenuBar:214 - Edit menu created.
+2015-03-20 17:02:00 DEBUG MainFrameMenuBar:243 - View menu created.
+2015-03-20 17:02:01 DEBUG MainFrameMenuBar:274 - Tools menu created.
+2015-03-20 17:02:01 DEBUG MainFrameMenuBar:293 - Help menu created.
+2015-03-20 17:02:01 INFO  MainFrameMenuBar:92 - Frame Menu Bar successfully created
+2015-03-20 17:02:01 DEBUG MainFrame:91 - Menu bar created.
+2015-03-20 17:02:01 INFO  MainFrame:95 - Finished main frame initialization.
+2015-03-20 17:02:12 INFO  TabPanelBillingInfoPanelBottom:305 - Non production environment.
+2015-03-20 17:02:13 INFO  ActionListenerCallTransform:59 - Start.
+2015-03-20 17:02:13 DEBUG ActionListenerCallTransform:98 - URL validated: http://10.41.254.48:8888/eai/billing/TransformerService?WSDL
+2015-03-20 17:02:13 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2015-03-20 17:02:13 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2015-03-20 17:02:13 TRACE ProgressDialog:181 - Label updated to: Transformando a billing info.
+2015-03-20 17:02:13 TRACE ProgressDialog:181 - Label updated to: Chamando o Transform.
+2015-03-20 17:02:19 INFO  ActionListenerCallTransform:136 - Got Transform response!
+2015-03-20 17:02:19 TRACE ActionListenerCallTransform:137 - Billing Order: -------------------------------------
+-- Accounts
+-------------------------------------
+
+> Account: 899999988051 -> INSERVICE
+    Server Id: 3
+    Active Date: 19-03-2012 00:00
+    Inactive Date: N/A
+    Bill Period: M15-------------------------------------
+-- Services
+-------------------------------------
+
+
+
+> Service: null -> INSERVICE
+    Service Id: 4830241386
+    Active Date: 19-03-2012 00:00
+    Inactive Date: N/A
+
+> Service: null -> INSERVICE
+    Service Id: FNS-116IO4B-013
+    Active Date: 19-03-2012 00:00
+    Inactive Date: N/A-------------------------------------
+-- Components
+-------------------------------------
+
+
+
+> Component: Serviço de Autenticação Turbonet -> DELETE
+    Component Id: 24979
+    Package Id: 24130
+    Active Date: 19-03-2012 00:00
+    Inactive Date: 05-09-2013 00:00
+    Of Account: false
+    Inst. Id: 59973604
+
+> Component: Desconto promo. banda larga  3 ciclos -> DELETE
+    Component Id: 29819
+    Package Id: 24063
+    Active Date: 19-03-2012 00:00
+    Inactive Date: 05-09-2013 00:00
+    Of Account: false
+    Inst. Id: 59973606-------------------------------------
+-- Fidelities
+-------------------------------------
+
+
+
+> Fidelity: LT-0058 -> ADD
+    Term: 98968
+    Term Name: PREMIUM
+    Active Date: 04-09-2013 23:00
+    Inactive Date: 04-09-2014 23:00
+    Value: 20000
+
+> Fidelity: BL-0027 -> ADD
+    Term: 87870
+    Term Name: MODEM
+    Active Date: 04-09-2013 23:00
+    Inactive Date: 04-09-2014 23:00
+    Value: 20000
+2015-03-20 17:02:19 TRACE ProgressDialog:181 - Label updated to: Marshalling BillingOrder.
+2015-03-20 17:02:20 TRACE ProgressDialog:181 - Label updated to: Terminado!
+2015-03-20 17:02:20 INFO  ActionListenerCallTransform:165 - Success!
+2015-03-20 17:02:20 TRACE ProgressDialog:263 - Dialog stoped!
+2015-03-20 17:04:12 INFO  Integrator:33 - START
+2015-03-20 17:04:12 DEBUG Integrator:60 - Main frame executing on its own thread.
+2015-03-20 17:04:12 INFO  Integrator:61 - END
+2015-03-20 17:04:19 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-20 17:04:19 INFO  MainFrame:54 - Initializing....
+2015-03-20 17:04:19 DEBUG MainFrame:66 - Main panel created.
+2015-03-20 17:04:19 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2015-03-20 17:04:19 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2015-03-20 17:04:19 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2015-03-20 17:04:19 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2015-03-20 17:04:19 DEBUG MainFrame:70 - Environment settings panel created.
+2015-03-20 17:04:19 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2015-03-20 17:04:19 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2015-03-20 17:04:19 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2015-03-20 17:04:19 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2015-03-20 17:04:19 DEBUG MainFrame:74 - JDBC settings panel created.
+2015-03-20 17:04:19 INFO  TabPanelBilling:71 - Initializing....
+2015-03-20 17:04:19 INFO  TabPanelBilling:81 - Finished panel initialization.
+2015-03-20 17:04:19 DEBUG MainFrame:79 - Billing panel created.
+2015-03-20 17:04:19 INFO  MainFrameMenuBar:64 - Creating Frame Menu Bar....
+2015-03-20 17:04:19 DEBUG MainFrameMenuBar:144 - File menu created.
+2015-03-20 17:04:19 DEBUG MainFrameMenuBar:214 - Edit menu created.
+2015-03-20 17:04:19 DEBUG MainFrameMenuBar:243 - View menu created.
+2015-03-20 17:04:19 DEBUG MainFrameMenuBar:274 - Tools menu created.
+2015-03-20 17:04:19 DEBUG MainFrameMenuBar:293 - Help menu created.
+2015-03-20 17:04:19 INFO  MainFrameMenuBar:92 - Frame Menu Bar successfully created
+2015-03-20 17:04:19 DEBUG MainFrame:91 - Menu bar created.
+2015-03-20 17:04:19 INFO  MainFrame:95 - Finished main frame initialization.
+2015-03-20 17:05:22 INFO  TabPanelBillingInfoPanelBottom:305 - Non production environment.
+2015-03-20 17:05:23 INFO  ActionListenerCallTransform:59 - Start.
+2015-03-20 17:05:23 DEBUG ActionListenerCallTransform:98 - URL validated: http://10.41.254.48:8888/eai/billing/TransformerService?WSDL
+2015-03-20 17:05:23 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2015-03-20 17:05:23 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2015-03-20 17:05:23 TRACE ProgressDialog:181 - Label updated to: Transformando a billing info.
+2015-03-20 17:05:23 TRACE ProgressDialog:181 - Label updated to: Chamando o Transform.
+2015-03-20 17:05:27 INFO  ActionListenerCallTransform:136 - Got Transform response!
+2015-03-20 17:05:27 TRACE ActionListenerCallTransform:137 - Billing Order: -------------------------------------
+-- Accounts
+-------------------------------------
+
+> Account: 899999988051 -> INSERVICE
+    Server Id: 3
+    Active Date: 19-03-2012 00:00
+    Inactive Date: N/A
+    Bill Period: M15
+
+-------------------------------------
+-- Services
+-------------------------------------
+
+> Service: null -> INSERVICE
+    Service Id: 4830241386
+    Active Date: 19-03-2012 00:00
+    Inactive Date: N/A
+
+> Service: null -> INSERVICE
+    Service Id: FNS-116IO4B-013
+    Active Date: 19-03-2012 00:00
+    Inactive Date: N/A
+
+-------------------------------------
+-- Components
+-------------------------------------
+
+> Component: Serviço de Autenticação Turbonet -> DELETE
+    Component Id: 24979
+    Package Id: 24130
+    Active Date: 19-03-2012 00:00
+    Inactive Date: 05-09-2013 00:00
+    Of Account: false
+    Inst. Id: 59973604
+
+> Component: Desconto promo. banda larga  3 ciclos -> DELETE
+    Component Id: 29819
+    Package Id: 24063
+    Active Date: 19-03-2012 00:00
+    Inactive Date: 05-09-2013 00:00
+    Of Account: false
+    Inst. Id: 59973606
+
+-------------------------------------
+-- Fidelities
+-------------------------------------
+
+> Fidelity: LT-0058 -> ADD
+    Term: 98968
+    Term Name: PREMIUM
+    Active Date: 04-09-2013 23:00
+    Inactive Date: 04-09-2014 23:00
+    Value: 20000
+
+> Fidelity: BL-0027 -> ADD
+    Term: 87870
+    Term Name: MODEM
+    Active Date: 04-09-2013 23:00
+    Inactive Date: 04-09-2014 23:00
+    Value: 20000
+2015-03-20 17:05:27 TRACE ProgressDialog:181 - Label updated to: Marshalling BillingOrder.
+2015-03-20 17:05:28 TRACE ProgressDialog:181 - Label updated to: Terminado!
+2015-03-20 17:05:28 INFO  ActionListenerCallTransform:165 - Success!
+2015-03-20 17:05:28 TRACE ProgressDialog:263 - Dialog stoped!

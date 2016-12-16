@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="BillingTestIntegrator" default="build" basedir=".">
+
+
+	<!-- Propriedades para configuração do build. -->
+	<property file="ant.properties" />
+
+
+	<!-- Limpa os diretórios de compilação. -->
+	<target name="clean-bin" description="Limpa os diretórios de compilação.">
+		<echo message="Recriando a diretoria ${ant.dir.bin}" />
+		<delete dir="${ant.dir.bin}" />
+		<mkdir dir="${ant.dir.bin}" />
+	</target>
+
+
+	<!-- Limpa os diretórios do build. -->
+	<target name="clean-build" description="Limpa os diretórios do build.">
+		<echo message="Recriando a estrutura da diretoria ${ant.dir.build}" />
+		<delete dir="${ant.dir.build}" />
+		<mkdir dir="${ant.dir.build}" />
+		<mkdir dir="${ant.dir.build.lib}" />
+	</target>
+
+
+	<!-- Configuracao do Classpath. -->
+	<path id="compile.classpath">
+		<fileset dir="${ant.dir.lib}">
+			<include name="**/*.jar" />
+		</fileset>
+	</path>
+
+
+	<!-- Criação do Classpath para o Manifest. -->
+	<pathconvert property="manifest.classpath" pathsep=" ">
+		<path refid="compile.classpath" />
+		<chainedmapper>
+			<flattenmapper />
+			<globmapper from="*" to="lib/*" />
+		</chainedmapper>
+	</pathconvert>
+
+
+	<!-- Compilação do código fonte. -->
+	<target name="compile" depends="clean-bin" description="Compilação do código fonte.">
+		<tstamp>
+			<format property="TODAY_BR" pattern="dd-MMMM-yyyy hh:mm:ss" locale="pt,BR" />
+		</tstamp>
+
+		<echo message="Compilando o código fonte." />
+		<echo message="Manifest classpath: ${manifest.classpath}" />
+		<javac 
+			debug="true" 
+			encoding="UTF-8" 
+			srcdir="${ant.dir.src}" 
+			destdir="${ant.dir.bin}" 
+			source="1.7" 
+			target="1.7" 
+			classpathref="compile.classpath" 
+			includeantruntime="false" 
+		/>
+
+		<echo message="Copiando ficheiros de propriedades log4j." />
+		<copy todir="${ant.dir.bin}">
+			<fileset dir="${ant.dir.src}" excludes="**/*.java" />
+		</copy>
+
+	</target>
+
+
+	<!-- Criação do jar. -->
+	<target name="jar" depends="clean-build, compile" description="Criação do jar.">
+
+		<echo message="Criando o ficheiro jar." />
+		<jar destfile="${ant.dir.build}/${ant.project.name}.jar" basedir="${ant.dir.bin}">
+			<fileset file=".log4j.properties" />
+			<manifest>
+				<attribute name="Author" value="${ant.author}" />
+				<attribute name="Main-Class" value="${ant.main-class}" />
+				<attribute name="SplashScreen-Image" value="${ant.manifest.splashscreen}" />
+				<attribute name="Class-Path" value="${manifest.classpath}" />
+				<attribute name="Manifest-Version" value="${ant.manifest.version}" />
+
+				<section name="Common">
+					<attribute name="Implementation-Title" value="${ant.project.name}" />
+					<attribute name="Implementation-Vendor" value="GVT - Global Village Telecom" />
+					<attribute name="Implementation-Version" value="${ant.build.version} [${TODAY_BR}]" />
+				</section>
+			</manifest>
+		</jar>
+
+		<!-- Copia as libs. -->
+		<echo message="Copia as libs." />
+		<copy todir="${ant.dir.build.lib}">
+			<fileset dir="${ant.dir.lib}" />
+		</copy>
+		
+		<!-- Copia ficheiro de configuração de bases de dados. -->
+		<echo message="Copiando ficheiro de configuração de bases de dados." />
+		<copy todir="${ant.dir.build}"
+			file="integrator.database.settings">
+		</copy>
+		
+		<!-- Copia ficheiro de configuração de ambientes. -->
+		<echo message="Copiando ficheiro de configuração de ambientes." />
+		<copy todir="${ant.dir.build}"
+			file="integrator.environment.settings">
+		</copy>
+
+	</target>
+
+
+	<target name="run" depends="jar">
+		<java jar="${ant.dir.build}/${ant.project.name}.jar .\reports\" fork="true" />
+	</target>
+
+
+	<target name="build" depends="jar" />
+
+
+</project>

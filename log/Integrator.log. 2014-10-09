@@ -1,0 +1,35 @@
+2014-10-09 16:12:34 INFO  Integrator:32 - START
+2014-10-09 16:12:35 DEBUG Integrator:58 - Main frame executing on its own thread.
+2014-10-09 16:12:35 INFO  Integrator:59 - END
+2014-10-09 16:12:40 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-10-09 16:12:40 INFO  MainFrame:54 - Initializing....
+2014-10-09 16:12:40 DEBUG MainFrame:66 - Main panel created.
+2014-10-09 16:12:40 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-10-09 16:12:41 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-10-09 16:12:41 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-10-09 16:12:41 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-10-09 16:12:41 DEBUG MainFrame:70 - Environment settings panel created.
+2014-10-09 16:12:41 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-10-09 16:12:42 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-10-09 16:12:42 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-10-09 16:12:42 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-10-09 16:12:42 DEBUG MainFrame:74 - JDBC settings panel created.
+2014-10-09 16:12:42 INFO  TabPanelBilling:67 - Initializing....
+2014-10-09 16:12:43 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-10-09 16:12:43 DEBUG MainFrame:79 - Billing panel created.
+2014-10-09 16:12:43 INFO  MainFrameMenuBar:52 - Creating Frame Menu Bar....
+2014-10-09 16:12:43 DEBUG MainFrameMenuBar:115 - File menu created.
+2014-10-09 16:12:43 DEBUG MainFrameMenuBar:144 - View menu created.
+2014-10-09 16:12:43 DEBUG MainFrameMenuBar:164 - Tools menu created.
+2014-10-09 16:12:43 DEBUG MainFrameMenuBar:183 - Help menu created.
+2014-10-09 16:12:43 INFO  MainFrameMenuBar:75 - Frame Menu Bar successfully created
+2014-10-09 16:12:43 DEBUG MainFrame:89 - Menu bar created.
+2014-10-09 16:12:43 INFO  MainFrame:93 - Finished main frame initialization.
+2014-10-09 16:14:31 INFO  ActionListenerTestDatabaseConnection:71 - Connection OK!
+2014-10-09 16:14:35 ERROR ActionListenerTestDatabaseConnection:79 - Got an SQL exception!
+2014-10-09 16:14:35 ERROR ActionListenerTestDatabaseConnection:80 - Error message: ORA-01017: invalid username/password; logon denied
+
+2014-10-09 16:14:43 ERROR ActionListenerTestDatabaseConnection:79 - Got an SQL exception!
+2014-10-09 16:14:43 ERROR ActionListenerTestDatabaseConnection:80 - Error message: ORA-01017: invalid username/password; logon denied
+
+2014-10-09 16:14:46 INFO  ActionListenerTestDatabaseConnection:71 - Connection OK!

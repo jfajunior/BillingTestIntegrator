@@ -1,0 +1,106 @@
+2014-10-24 08:10:05 INFO  Integrator:32 - START
+2014-10-24 08:10:05 DEBUG Integrator:58 - Main frame executing on its own thread.
+2014-10-24 08:10:05 INFO  Integrator:59 - END
+2014-10-24 08:10:13 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-10-24 08:10:13 INFO  MainFrame:54 - Initializing....
+2014-10-24 08:10:13 DEBUG MainFrame:66 - Main panel created.
+2014-10-24 08:10:13 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-10-24 08:10:14 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-10-24 08:10:14 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-10-24 08:10:14 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-10-24 08:10:14 DEBUG MainFrame:70 - Environment settings panel created.
+2014-10-24 08:10:14 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-10-24 08:10:14 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-10-24 08:10:14 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-10-24 08:10:14 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-10-24 08:10:14 DEBUG MainFrame:74 - JDBC settings panel created.
+2014-10-24 08:10:14 INFO  TabPanelBilling:67 - Initializing....
+2014-10-24 08:10:16 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-10-24 08:10:16 DEBUG MainFrame:79 - Billing panel created.
+2014-10-24 08:10:16 INFO  MainFrameMenuBar:53 - Creating Frame Menu Bar....
+2014-10-24 08:10:16 DEBUG MainFrameMenuBar:116 - File menu created.
+2014-10-24 08:10:16 DEBUG MainFrameMenuBar:145 - View menu created.
+2014-10-24 08:10:16 DEBUG MainFrameMenuBar:174 - Tools menu created.
+2014-10-24 08:10:16 DEBUG MainFrameMenuBar:193 - Help menu created.
+2014-10-24 08:10:16 INFO  MainFrameMenuBar:76 - Frame Menu Bar successfully created
+2014-10-24 08:10:16 DEBUG MainFrame:89 - Menu bar created.
+2014-10-24 08:10:16 INFO  MainFrame:93 - Finished main frame initialization.
+2014-10-24 09:14:22 INFO  Integrator:32 - START
+2014-10-24 09:14:23 DEBUG Integrator:58 - Main frame executing on its own thread.
+2014-10-24 09:14:23 INFO  Integrator:59 - END
+2014-10-24 09:14:30 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-10-24 09:14:30 INFO  MainFrame:54 - Initializing....
+2014-10-24 09:14:30 DEBUG MainFrame:66 - Main panel created.
+2014-10-24 09:14:30 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-10-24 09:14:30 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-10-24 09:14:30 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-10-24 09:14:30 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-10-24 09:14:30 DEBUG MainFrame:70 - Environment settings panel created.
+2014-10-24 09:14:30 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-10-24 09:14:30 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-10-24 09:14:30 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-10-24 09:14:30 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-10-24 09:14:30 DEBUG MainFrame:74 - JDBC settings panel created.
+2014-10-24 09:14:30 INFO  TabPanelBilling:67 - Initializing....
+2014-10-24 09:14:30 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-10-24 09:14:30 DEBUG MainFrame:79 - Billing panel created.
+2014-10-24 09:14:30 INFO  MainFrameMenuBar:53 - Creating Frame Menu Bar....
+2014-10-24 09:14:30 DEBUG MainFrameMenuBar:116 - File menu created.
+2014-10-24 09:14:30 DEBUG MainFrameMenuBar:145 - View menu created.
+2014-10-24 09:14:30 DEBUG MainFrameMenuBar:174 - Tools menu created.
+2014-10-24 09:14:30 DEBUG MainFrameMenuBar:193 - Help menu created.
+2014-10-24 09:14:30 INFO  MainFrameMenuBar:76 - Frame Menu Bar successfully created
+2014-10-24 09:14:30 DEBUG MainFrame:89 - Menu bar created.
+2014-10-24 09:14:30 INFO  MainFrame:93 - Finished main frame initialization.
+2014-10-24 09:14:41 INFO  ActionListenerGenerateBillingRequest:52 - Start.
+2014-10-24 09:14:41 DEBUG ActionListenerGenerateBillingRequest:76 - Creating request.
+2014-10-24 09:14:42 DEBUG CustomerOrderSOAPClientSAAJ:169 - SOAP Message Request: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1234</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2014-10-24 09:14:42 DEBUG ActionListenerGenerateBillingRequest:81 - Showing request.
+2014-10-24 09:14:42 INFO  ActionListenerGenerateBillingRequest:87 - Success!
+2014-10-24 09:14:49 INFO  TabPanelBillingInfoPanelBottom:305 - Non production environment.
+2014-10-24 09:14:50 INFO  ActionListenerCallGetBillingInfo:64 - Start.
+2014-10-24 09:14:50 INFO  ActionListenerCallGetBillingInfo:225 - Success!
+2014-10-24 09:14:50 DEBUG ActionListenerCallGetBillingInfo:105 - URL validated: http://10.41.254.48:8888/crm/siebel8/getCustomerOrderBillInfo?WSDL
+2014-10-24 09:14:50 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-10-24 09:14:50 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-10-24 09:14:50 TRACE ProgressDialog:181 - Label updated to: Criando pedido SOAP.
+2014-10-24 09:14:50 DEBUG ActionListenerCallGetBillingInfo:125 - SOAP Message Request from caller: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1234</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2014-10-24 09:14:50 TRACE ProgressDialog:181 - Label updated to: Chamando o Get Billing Info.
+2014-10-24 09:14:50 INFO  ActionListenerCallGetBillingInfo:138 - Got Billing Info response!
+2014-10-24 09:14:50 TRACE ProgressDialog:181 - Label updated to: Processando a resposta...
+2014-10-24 09:14:50 TRACE ActionListenerCallGetBillingInfo:147 - Billing Info: <?xml version="1.0" encoding="UTF-8"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><SOAP-ENV:Fault><faultcode>SOAP-ENV:Server</faultcode><faultstring>Amount of found orders is not equal to 1 - 0(SBL-BPR-00131)(SBL-BPR-00131)</faultstring><detail><siebelf:siebdetail xmlns:siebelf="http://www.siebel.com/ws/fault"><siebelf:logfilename>EAIObjMgr_ptb_0047_49284285.log</siebelf:logfilename><siebelf:errorstack><siebelf:error><siebelf:errorcode>SBL-BPR-00131</siebelf:errorcode><siebelf:errorsymbol>WF_ERR_CUSTOM_1</siebelf:errorsymbol><siebelf:errormsg>Amount of found orders is not equal to 1 - 0(SBL-BPR-00131)(SBL-BPR-00131)</siebelf:errormsg></siebelf:error><siebelf:error><siebelf:errorcode>SBL-BPR-00131</siebelf:errorcode><siebelf:errorsymbol>WF_ERR_CUSTOM_1</siebelf:errorsymbol><siebelf:errormsg>Amount of found orders is not equal to 1 - 0(SBL-BPR-00131)</siebelf:errormsg></siebelf:error></siebelf:errorstack></siebelf:siebdetail></detail></SOAP-ENV:Fault></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2014-10-24 09:14:50 TRACE ProgressDialog:181 - Label updated to: Formatando.
+2014-10-24 09:14:50 TRACE ProgressDialog:181 - Label updated to: Terminado!
+2014-10-24 09:14:50 TRACE ProgressDialog:263 - Dialog stoped!

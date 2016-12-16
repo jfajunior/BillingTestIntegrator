@@ -1,0 +1,120 @@
+2014-10-21 14:01:35 INFO  Integrator:32 - START
+2014-10-21 14:01:35 DEBUG Integrator:58 - Main frame executing on its own thread.
+2014-10-21 14:01:35 INFO  Integrator:59 - END
+2014-10-21 14:01:41 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-10-21 14:01:41 INFO  MainFrame:54 - Initializing....
+2014-10-21 14:01:41 DEBUG MainFrame:66 - Main panel created.
+2014-10-21 14:01:41 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-10-21 14:01:41 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-10-21 14:01:42 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-10-21 14:01:42 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-10-21 14:01:42 DEBUG MainFrame:70 - Environment settings panel created.
+2014-10-21 14:01:42 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-10-21 14:01:42 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-10-21 14:01:42 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-10-21 14:01:42 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-10-21 14:01:42 DEBUG MainFrame:74 - JDBC settings panel created.
+2014-10-21 14:01:42 INFO  TabPanelBilling:67 - Initializing....
+2014-10-21 14:01:43 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-10-21 14:01:43 DEBUG MainFrame:79 - Billing panel created.
+2014-10-21 14:01:43 INFO  MainFrameMenuBar:52 - Creating Frame Menu Bar....
+2014-10-21 14:01:43 DEBUG MainFrameMenuBar:115 - File menu created.
+2014-10-21 14:01:43 DEBUG MainFrameMenuBar:144 - View menu created.
+2014-10-21 14:01:43 DEBUG MainFrameMenuBar:164 - Tools menu created.
+2014-10-21 14:01:43 DEBUG MainFrameMenuBar:183 - Help menu created.
+2014-10-21 14:01:43 INFO  MainFrameMenuBar:75 - Frame Menu Bar successfully created
+2014-10-21 14:01:43 DEBUG MainFrame:89 - Menu bar created.
+2014-10-21 14:01:43 INFO  MainFrame:93 - Finished main frame initialization.
+2014-10-21 14:02:35 DEBUG SimulateTransformRequestFromExistingRequestAction:250 - Simulationg new transform request.
+2014-10-21 14:02:35 DEBUG SimulateTransformRequestFromExistingRequestAction:273 - Showing simulated request.
+2014-10-21 14:02:36 INFO  SimulateTransformRequestFromExistingRequestAction:279 - Success!
+2014-10-21 14:26:34 INFO  Integrator:32 - START
+2014-10-21 14:26:34 DEBUG Integrator:58 - Main frame executing on its own thread.
+2014-10-21 14:26:34 INFO  Integrator:59 - END
+2014-10-21 14:26:38 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-10-21 14:26:38 INFO  MainFrame:54 - Initializing....
+2014-10-21 14:26:38 DEBUG MainFrame:66 - Main panel created.
+2014-10-21 14:26:38 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-10-21 14:26:38 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-10-21 14:26:38 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-10-21 14:26:38 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-10-21 14:26:38 DEBUG MainFrame:70 - Environment settings panel created.
+2014-10-21 14:26:38 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-10-21 14:26:38 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-10-21 14:26:38 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-10-21 14:26:38 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-10-21 14:26:38 DEBUG MainFrame:74 - JDBC settings panel created.
+2014-10-21 14:26:38 INFO  TabPanelBilling:67 - Initializing....
+2014-10-21 14:26:39 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-10-21 14:26:39 DEBUG MainFrame:79 - Billing panel created.
+2014-10-21 14:26:39 INFO  MainFrameMenuBar:52 - Creating Frame Menu Bar....
+2014-10-21 14:26:39 DEBUG MainFrameMenuBar:115 - File menu created.
+2014-10-21 14:26:39 DEBUG MainFrameMenuBar:144 - View menu created.
+2014-10-21 14:26:39 DEBUG MainFrameMenuBar:164 - Tools menu created.
+2014-10-21 14:26:39 DEBUG MainFrameMenuBar:183 - Help menu created.
+2014-10-21 14:26:39 INFO  MainFrameMenuBar:75 - Frame Menu Bar successfully created
+2014-10-21 14:26:39 DEBUG MainFrame:89 - Menu bar created.
+2014-10-21 14:26:39 INFO  MainFrame:93 - Finished main frame initialization.
+2014-10-21 14:27:47 DEBUG SimulateTransformRequestFromExistingRequestAction:254 - Simulationg new transform request.
+2014-10-21 14:27:48 DEBUG SimulateTransformRequestFromExistingRequestAction:277 - Showing simulated request.
+2014-10-21 14:27:48 INFO  SimulateTransformRequestFromExistingRequestAction:283 - Success!
+2014-10-21 14:38:17 INFO  Integrator:32 - START
+2014-10-21 14:38:17 DEBUG Integrator:58 - Main frame executing on its own thread.
+2014-10-21 14:38:17 INFO  Integrator:59 - END
+2014-10-21 14:38:21 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-10-21 14:38:21 INFO  MainFrame:54 - Initializing....
+2014-10-21 14:38:21 DEBUG MainFrame:66 - Main panel created.
+2014-10-21 14:38:21 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-10-21 14:38:21 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-10-21 14:38:21 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-10-21 14:38:21 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-10-21 14:38:21 DEBUG MainFrame:70 - Environment settings panel created.
+2014-10-21 14:38:21 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-10-21 14:38:21 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-10-21 14:38:21 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-10-21 14:38:21 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-10-21 14:38:21 DEBUG MainFrame:74 - JDBC settings panel created.
+2014-10-21 14:38:21 INFO  TabPanelBilling:67 - Initializing....
+2014-10-21 14:38:22 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-10-21 14:38:22 DEBUG MainFrame:79 - Billing panel created.
+2014-10-21 14:38:22 INFO  MainFrameMenuBar:52 - Creating Frame Menu Bar....
+2014-10-21 14:38:22 DEBUG MainFrameMenuBar:115 - File menu created.
+2014-10-21 14:38:22 DEBUG MainFrameMenuBar:144 - View menu created.
+2014-10-21 14:38:22 DEBUG MainFrameMenuBar:164 - Tools menu created.
+2014-10-21 14:38:22 DEBUG MainFrameMenuBar:183 - Help menu created.
+2014-10-21 14:38:22 INFO  MainFrameMenuBar:75 - Frame Menu Bar successfully created
+2014-10-21 14:38:22 DEBUG MainFrame:89 - Menu bar created.
+2014-10-21 14:38:22 INFO  MainFrame:93 - Finished main frame initialization.
+2014-10-21 14:38:32 DEBUG SimulateTransformRequestFromExistingRequestAction:260 - Simulationg new transform request.
+2014-10-21 14:38:32 DEBUG SimulateTransformRequestFromExistingRequestAction:283 - Showing simulated request.
+2014-10-21 14:38:33 INFO  SimulateTransformRequestFromExistingRequestAction:289 - Success!
+2014-10-21 17:07:30 INFO  Integrator:32 - START
+2014-10-21 17:07:31 DEBUG Integrator:58 - Main frame executing on its own thread.
+2014-10-21 17:07:31 INFO  Integrator:59 - END
+2014-10-21 17:07:37 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-10-21 17:07:37 INFO  MainFrame:54 - Initializing....
+2014-10-21 17:07:37 DEBUG MainFrame:66 - Main panel created.
+2014-10-21 17:07:37 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-10-21 17:07:38 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-10-21 17:07:38 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-10-21 17:07:38 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-10-21 17:07:38 DEBUG MainFrame:70 - Environment settings panel created.
+2014-10-21 17:07:38 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-10-21 17:07:39 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-10-21 17:07:39 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-10-21 17:07:39 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-10-21 17:07:39 DEBUG MainFrame:74 - JDBC settings panel created.
+2014-10-21 17:07:39 INFO  TabPanelBilling:67 - Initializing....
+2014-10-21 17:07:40 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-10-21 17:07:40 DEBUG MainFrame:79 - Billing panel created.
+2014-10-21 17:07:40 INFO  MainFrameMenuBar:52 - Creating Frame Menu Bar....
+2014-10-21 17:07:40 DEBUG MainFrameMenuBar:115 - File menu created.
+2014-10-21 17:07:40 DEBUG MainFrameMenuBar:144 - View menu created.
+2014-10-21 17:07:40 DEBUG MainFrameMenuBar:164 - Tools menu created.
+2014-10-21 17:07:41 DEBUG MainFrameMenuBar:183 - Help menu created.
+2014-10-21 17:07:41 INFO  MainFrameMenuBar:75 - Frame Menu Bar successfully created
+2014-10-21 17:07:41 DEBUG MainFrame:89 - Menu bar created.
+2014-10-21 17:07:41 INFO  MainFrame:93 - Finished main frame initialization.
+2014-10-21 17:08:43 DEBUG SimulateTransformRequestFromExistingRequestAction:260 - Simulationg new transform request.
+2014-10-21 17:08:44 DEBUG SimulateTransformRequestFromExistingRequestAction:283 - Showing simulated request.
+2014-10-21 17:08:44 INFO  SimulateTransformRequestFromExistingRequestAction:289 - Success!

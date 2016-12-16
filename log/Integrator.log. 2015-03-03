@@ -1,0 +1,543 @@
+2015-03-02 16:41:32 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 16:45:51 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 16:50:19 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 16:52:54 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:12:56 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:14:48 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:15:36 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:16:44 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:23:50 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:24:28 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:24:47 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:25:19 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:28:33 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:29:23 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:30:38 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:31:09 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:43:35 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-02 17:43:46 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:05:24 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:06:17 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:06:31 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:09:08 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:09:55 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:10:44 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:12:37 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:15:24 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:16:08 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:17:18 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:18:08 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:19:47 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:20:09 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:20:52 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:21:43 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:22:30 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:22:57 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 11:23:31 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 13:48:06 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 13:50:45 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 13:52:07 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 13:52:36 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 13:52:43 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 13:52:56 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 14:18:01 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 14:42:46 INFO  Integrator:35 - START
+2015-03-03 14:42:46 DEBUG Integrator:62 - Main frame executing on its own thread.
+2015-03-03 14:42:46 INFO  Integrator:63 - END
+2015-03-03 14:42:52 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 14:42:52 INFO  MainFrame:54 - Initializing....
+2015-03-03 14:42:52 DEBUG MainFrame:66 - Main panel created.
+2015-03-03 14:42:52 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2015-03-03 14:42:52 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2015-03-03 14:42:53 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2015-03-03 14:42:53 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2015-03-03 14:42:53 DEBUG MainFrame:70 - Environment settings panel created.
+2015-03-03 14:42:53 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2015-03-03 14:42:53 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2015-03-03 14:42:53 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2015-03-03 14:42:53 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2015-03-03 14:42:53 DEBUG MainFrame:74 - JDBC settings panel created.
+2015-03-03 14:42:53 INFO  TabPanelBilling:71 - Initializing....
+2015-03-03 14:42:53 INFO  TabPanelBilling:81 - Finished panel initialization.
+2015-03-03 14:42:53 DEBUG MainFrame:79 - Billing panel created.
+2015-03-03 14:42:53 INFO  MainFrameMenuBar:64 - Creating Frame Menu Bar....
+2015-03-03 14:42:53 DEBUG MainFrameMenuBar:144 - File menu created.
+2015-03-03 14:42:53 DEBUG MainFrameMenuBar:214 - Edit menu created.
+2015-03-03 14:42:53 DEBUG MainFrameMenuBar:243 - View menu created.
+2015-03-03 14:42:53 DEBUG MainFrameMenuBar:274 - Tools menu created.
+2015-03-03 14:42:53 DEBUG MainFrameMenuBar:293 - Help menu created.
+2015-03-03 14:42:53 INFO  MainFrameMenuBar:92 - Frame Menu Bar successfully created
+2015-03-03 14:42:53 DEBUG MainFrame:90 - Menu bar created.
+2015-03-03 14:42:53 INFO  MainFrame:94 - Finished main frame initialization.
+2015-03-03 14:43:39 INFO  DialogFind:78 - Dialog singleton created!
+2015-03-03 14:44:08 INFO  ActionListenerGenerateBillingRequest:52 - Start.
+2015-03-03 14:44:08 DEBUG ActionListenerGenerateBillingRequest:76 - Creating request.
+2015-03-03 14:44:08 DEBUG CustomerOrderSOAPClientSAAJ:169 - SOAP Message Request: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1234</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2015-03-03 14:44:08 DEBUG ActionListenerGenerateBillingRequest:81 - Showing request.
+2015-03-03 14:44:08 INFO  ActionListenerGenerateBillingRequest:87 - Success!
+2015-03-03 14:44:14 INFO  DialogFind:83 - Got singleton instance.
+2015-03-03 14:50:55 INFO  Integrator:35 - START
+2015-03-03 14:50:55 DEBUG Integrator:62 - Main frame executing on its own thread.
+2015-03-03 14:50:55 INFO  Integrator:63 - END
+2015-03-03 14:51:01 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 14:51:01 INFO  MainFrame:54 - Initializing....
+2015-03-03 14:51:01 DEBUG MainFrame:66 - Main panel created.
+2015-03-03 14:51:01 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2015-03-03 14:51:01 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2015-03-03 14:51:02 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2015-03-03 14:51:02 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2015-03-03 14:51:02 DEBUG MainFrame:70 - Environment settings panel created.
+2015-03-03 14:51:02 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2015-03-03 14:51:02 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2015-03-03 14:51:02 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2015-03-03 14:51:02 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2015-03-03 14:51:02 DEBUG MainFrame:74 - JDBC settings panel created.
+2015-03-03 14:51:02 INFO  TabPanelBilling:71 - Initializing....
+2015-03-03 14:51:02 INFO  TabPanelBilling:81 - Finished panel initialization.
+2015-03-03 14:51:02 DEBUG MainFrame:79 - Billing panel created.
+2015-03-03 14:51:02 INFO  MainFrameMenuBar:64 - Creating Frame Menu Bar....
+2015-03-03 14:51:02 DEBUG MainFrameMenuBar:144 - File menu created.
+2015-03-03 14:51:02 DEBUG MainFrameMenuBar:214 - Edit menu created.
+2015-03-03 14:51:02 DEBUG MainFrameMenuBar:243 - View menu created.
+2015-03-03 14:51:02 DEBUG MainFrameMenuBar:274 - Tools menu created.
+2015-03-03 14:51:02 DEBUG MainFrameMenuBar:293 - Help menu created.
+2015-03-03 14:51:02 INFO  MainFrameMenuBar:92 - Frame Menu Bar successfully created
+2015-03-03 14:51:02 DEBUG MainFrame:90 - Menu bar created.
+2015-03-03 14:51:02 INFO  MainFrame:94 - Finished main frame initialization.
+2015-03-03 14:51:37 INFO  Integrator:35 - START
+2015-03-03 14:51:37 DEBUG Integrator:62 - Main frame executing on its own thread.
+2015-03-03 14:51:37 INFO  Integrator:63 - END
+2015-03-03 14:51:44 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 14:51:44 INFO  MainFrame:54 - Initializing....
+2015-03-03 14:51:44 DEBUG MainFrame:66 - Main panel created.
+2015-03-03 14:51:44 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2015-03-03 14:51:44 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2015-03-03 14:51:44 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2015-03-03 14:51:44 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2015-03-03 14:51:44 DEBUG MainFrame:70 - Environment settings panel created.
+2015-03-03 14:51:44 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2015-03-03 14:51:44 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2015-03-03 14:51:44 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2015-03-03 14:51:44 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2015-03-03 14:51:44 DEBUG MainFrame:74 - JDBC settings panel created.
+2015-03-03 14:51:44 INFO  TabPanelBilling:71 - Initializing....
+2015-03-03 14:51:44 INFO  TabPanelBilling:81 - Finished panel initialization.
+2015-03-03 14:51:44 DEBUG MainFrame:79 - Billing panel created.
+2015-03-03 14:51:44 INFO  MainFrameMenuBar:64 - Creating Frame Menu Bar....
+2015-03-03 14:51:44 DEBUG MainFrameMenuBar:144 - File menu created.
+2015-03-03 14:51:44 DEBUG MainFrameMenuBar:214 - Edit menu created.
+2015-03-03 14:51:44 DEBUG MainFrameMenuBar:243 - View menu created.
+2015-03-03 14:51:44 DEBUG MainFrameMenuBar:274 - Tools menu created.
+2015-03-03 14:51:44 DEBUG MainFrameMenuBar:293 - Help menu created.
+2015-03-03 14:51:44 INFO  MainFrameMenuBar:92 - Frame Menu Bar successfully created
+2015-03-03 14:51:44 DEBUG MainFrame:90 - Menu bar created.
+2015-03-03 14:51:44 INFO  MainFrame:94 - Finished main frame initialization.
+2015-03-03 14:51:47 INFO  ActionListenerGenerateBillingRequest:52 - Start.
+2015-03-03 14:51:47 DEBUG ActionListenerGenerateBillingRequest:76 - Creating request.
+2015-03-03 14:51:47 DEBUG CustomerOrderSOAPClientSAAJ:169 - SOAP Message Request: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1234</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2015-03-03 14:51:47 DEBUG ActionListenerGenerateBillingRequest:81 - Showing request.
+2015-03-03 14:51:47 INFO  ActionListenerGenerateBillingRequest:87 - Success!
+2015-03-03 14:51:53 INFO  DialogFind:78 - Dialog singleton created!
+2015-03-03 14:52:48 INFO  TabPanelBillingInfoPanelBottom:305 - Non production environment.
+2015-03-03 14:52:48 INFO  ActionListenerCallGetBillingInfo:64 - Start.
+2015-03-03 14:52:48 INFO  ActionListenerCallGetBillingInfo:225 - Success!
+2015-03-03 14:52:48 DEBUG ActionListenerCallGetBillingInfo:105 - URL validated: http://10.41.254.48:8888/crm/siebel8/getCustomerOrderBillInfo?WSDL
+2015-03-03 14:52:48 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2015-03-03 14:52:48 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2015-03-03 14:52:48 TRACE ProgressDialog:181 - Label updated to: Criando pedido SOAP.
+2015-03-03 14:52:48 DEBUG ActionListenerCallGetBillingInfo:125 - SOAP Message Request from caller: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:can="http://www.gvt.com.br/siebel/customerorderin" xmlns:co="http://www.gvt.com.br/siebel/customerorder">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <can:GetCustomerBillInfoIn>
+                    <can:NumeroOrdem>1234</can:NumeroOrdem>
+                    <can:IdIntegracao>*</can:IdIntegracao>
+                </can:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2015-03-03 14:52:48 TRACE ProgressDialog:181 - Label updated to: Chamando o Get Billing Info.
+2015-03-03 14:52:49 INFO  ActionListenerCallGetBillingInfo:138 - Got Billing Info response!
+2015-03-03 14:52:49 TRACE ProgressDialog:181 - Label updated to: Processando a resposta...
+2015-03-03 14:52:49 TRACE ActionListenerCallGetBillingInfo:147 - Billing Info: <?xml version="1.0" encoding="UTF-8"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><SOAP-ENV:Fault><faultcode>SOAP-ENV:Server</faultcode><faultstring>Amount of found orders is not equal to 1 - 0(SBL-BPR-00131)(SBL-BPR-00131)</faultstring><detail><siebelf:siebdetail xmlns:siebelf="http://www.siebel.com/ws/fault"><siebelf:logfilename>EAIObjMgr_ptb_1546_1621100243.log</siebelf:logfilename><siebelf:errorstack><siebelf:error><siebelf:errorcode>SBL-BPR-00131</siebelf:errorcode><siebelf:errorsymbol>WF_ERR_CUSTOM_1</siebelf:errorsymbol><siebelf:errormsg>Amount of found orders is not equal to 1 - 0(SBL-BPR-00131)(SBL-BPR-00131)</siebelf:errormsg></siebelf:error><siebelf:error><siebelf:errorcode>SBL-BPR-00131</siebelf:errorcode><siebelf:errorsymbol>WF_ERR_CUSTOM_1</siebelf:errorsymbol><siebelf:errormsg>Amount of found orders is not equal to 1 - 0(SBL-BPR-00131)</siebelf:errormsg></siebelf:error></siebelf:errorstack></siebelf:siebdetail></detail></SOAP-ENV:Fault></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2015-03-03 14:52:49 TRACE ProgressDialog:181 - Label updated to: Formatando.
+2015-03-03 14:52:49 TRACE ProgressDialog:263 - Dialog stoped!
+2015-03-03 14:52:49 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2015-03-03 14:52:49 ERROR ActionListenerCallGetBillingInfo:200 - String index out of range: -17
+2015-03-03 14:52:49 TRACE ProgressDialog:263 - Dialog stoped!
+2015-03-03 14:52:56 INFO  DialogFind:83 - Got singleton instance.
+2015-03-03 14:58:43 INFO  Integrator:35 - START
+2015-03-03 14:58:43 DEBUG Integrator:62 - Main frame executing on its own thread.
+2015-03-03 14:58:43 INFO  Integrator:63 - END
+2015-03-03 14:58:49 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 14:58:49 INFO  MainFrame:54 - Initializing....
+2015-03-03 14:58:49 DEBUG MainFrame:66 - Main panel created.
+2015-03-03 14:58:49 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2015-03-03 14:58:49 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2015-03-03 14:58:49 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2015-03-03 14:58:49 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2015-03-03 14:58:49 DEBUG MainFrame:70 - Environment settings panel created.
+2015-03-03 14:58:49 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2015-03-03 14:58:49 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2015-03-03 14:58:49 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2015-03-03 14:58:49 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2015-03-03 14:58:49 DEBUG MainFrame:74 - JDBC settings panel created.
+2015-03-03 14:58:49 INFO  TabPanelBilling:71 - Initializing....
+2015-03-03 14:58:49 INFO  TabPanelBilling:81 - Finished panel initialization.
+2015-03-03 14:58:49 DEBUG MainFrame:79 - Billing panel created.
+2015-03-03 14:58:49 INFO  MainFrameMenuBar:64 - Creating Frame Menu Bar....
+2015-03-03 14:58:49 DEBUG MainFrameMenuBar:144 - File menu created.
+2015-03-03 14:58:49 DEBUG MainFrameMenuBar:214 - Edit menu created.
+2015-03-03 14:58:49 DEBUG MainFrameMenuBar:243 - View menu created.
+2015-03-03 14:58:49 DEBUG MainFrameMenuBar:274 - Tools menu created.
+2015-03-03 14:58:49 DEBUG MainFrameMenuBar:293 - Help menu created.
+2015-03-03 14:58:49 INFO  MainFrameMenuBar:92 - Frame Menu Bar successfully created
+2015-03-03 14:58:49 DEBUG MainFrame:90 - Menu bar created.
+2015-03-03 14:58:49 INFO  MainFrame:94 - Finished main frame initialization.
+2015-03-03 14:58:52 INFO  ActionListenerGenerateBillingRequest:52 - Start.
+2015-03-03 14:58:52 DEBUG ActionListenerGenerateBillingRequest:76 - Creating request.
+2015-03-03 14:58:53 DEBUG CustomerOrderSOAPClientSAAJ:169 - SOAP Message Request: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1324</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2015-03-03 14:58:53 DEBUG ActionListenerGenerateBillingRequest:81 - Showing request.
+2015-03-03 14:58:53 INFO  ActionListenerGenerateBillingRequest:87 - Success!
+2015-03-03 14:58:56 INFO  DialogFind:78 - Dialog singleton created!
+2015-03-03 14:59:20 INFO  DialogFind:83 - Got singleton instance.
+2015-03-03 15:00:09 INFO  Integrator:35 - START
+2015-03-03 15:00:09 DEBUG Integrator:62 - Main frame executing on its own thread.
+2015-03-03 15:00:09 INFO  Integrator:63 - END
+2015-03-03 15:00:15 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 15:00:15 INFO  MainFrame:54 - Initializing....
+2015-03-03 15:00:15 DEBUG MainFrame:66 - Main panel created.
+2015-03-03 15:00:15 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2015-03-03 15:00:15 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2015-03-03 15:00:15 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2015-03-03 15:00:15 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2015-03-03 15:00:15 DEBUG MainFrame:70 - Environment settings panel created.
+2015-03-03 15:00:15 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2015-03-03 15:00:16 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2015-03-03 15:00:16 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2015-03-03 15:00:16 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2015-03-03 15:00:16 DEBUG MainFrame:74 - JDBC settings panel created.
+2015-03-03 15:00:16 INFO  TabPanelBilling:71 - Initializing....
+2015-03-03 15:00:16 INFO  TabPanelBilling:81 - Finished panel initialization.
+2015-03-03 15:00:16 DEBUG MainFrame:79 - Billing panel created.
+2015-03-03 15:00:16 INFO  MainFrameMenuBar:64 - Creating Frame Menu Bar....
+2015-03-03 15:00:16 DEBUG MainFrameMenuBar:144 - File menu created.
+2015-03-03 15:00:16 DEBUG MainFrameMenuBar:214 - Edit menu created.
+2015-03-03 15:00:16 DEBUG MainFrameMenuBar:243 - View menu created.
+2015-03-03 15:00:16 DEBUG MainFrameMenuBar:274 - Tools menu created.
+2015-03-03 15:00:16 DEBUG MainFrameMenuBar:293 - Help menu created.
+2015-03-03 15:00:16 INFO  MainFrameMenuBar:92 - Frame Menu Bar successfully created
+2015-03-03 15:00:16 DEBUG MainFrame:90 - Menu bar created.
+2015-03-03 15:00:16 INFO  MainFrame:94 - Finished main frame initialization.
+2015-03-03 15:00:22 INFO  ActionListenerGenerateBillingRequest:52 - Start.
+2015-03-03 15:00:22 DEBUG ActionListenerGenerateBillingRequest:76 - Creating request.
+2015-03-03 15:00:22 DEBUG CustomerOrderSOAPClientSAAJ:169 - SOAP Message Request: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1234</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2015-03-03 15:00:22 DEBUG ActionListenerGenerateBillingRequest:81 - Showing request.
+2015-03-03 15:00:22 INFO  ActionListenerGenerateBillingRequest:87 - Success!
+2015-03-03 15:00:26 INFO  DialogFind:78 - Dialog singleton created!
+2015-03-03 15:01:26 INFO  DialogFind:83 - Got singleton instance.
+2015-03-03 15:01:45 INFO  DialogFind:83 - Got singleton instance.
+2015-03-03 15:02:02 INFO  DialogFind:83 - Got singleton instance.
+2015-03-03 15:07:00 INFO  Integrator:35 - START
+2015-03-03 15:07:00 DEBUG Integrator:62 - Main frame executing on its own thread.
+2015-03-03 15:07:00 INFO  Integrator:63 - END
+2015-03-03 15:07:07 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 15:07:07 INFO  MainFrame:54 - Initializing....
+2015-03-03 15:07:07 DEBUG MainFrame:66 - Main panel created.
+2015-03-03 15:07:07 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2015-03-03 15:07:07 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2015-03-03 15:07:07 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2015-03-03 15:07:07 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2015-03-03 15:07:07 DEBUG MainFrame:70 - Environment settings panel created.
+2015-03-03 15:07:07 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2015-03-03 15:07:07 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2015-03-03 15:07:07 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2015-03-03 15:07:07 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2015-03-03 15:07:07 DEBUG MainFrame:74 - JDBC settings panel created.
+2015-03-03 15:07:07 INFO  TabPanelBilling:71 - Initializing....
+2015-03-03 15:07:07 INFO  TabPanelBilling:81 - Finished panel initialization.
+2015-03-03 15:07:07 DEBUG MainFrame:79 - Billing panel created.
+2015-03-03 15:07:07 INFO  MainFrameMenuBar:64 - Creating Frame Menu Bar....
+2015-03-03 15:07:07 DEBUG MainFrameMenuBar:144 - File menu created.
+2015-03-03 15:07:07 DEBUG MainFrameMenuBar:214 - Edit menu created.
+2015-03-03 15:07:07 DEBUG MainFrameMenuBar:243 - View menu created.
+2015-03-03 15:07:07 DEBUG MainFrameMenuBar:274 - Tools menu created.
+2015-03-03 15:07:07 DEBUG MainFrameMenuBar:293 - Help menu created.
+2015-03-03 15:07:07 INFO  MainFrameMenuBar:92 - Frame Menu Bar successfully created
+2015-03-03 15:07:07 DEBUG MainFrame:90 - Menu bar created.
+2015-03-03 15:07:07 INFO  MainFrame:94 - Finished main frame initialization.
+2015-03-03 15:07:21 INFO  ActionListenerGenerateBillingRequest:52 - Start.
+2015-03-03 15:07:21 DEBUG ActionListenerGenerateBillingRequest:76 - Creating request.
+2015-03-03 15:07:22 DEBUG CustomerOrderSOAPClientSAAJ:169 - SOAP Message Request: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1234</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2015-03-03 15:07:22 DEBUG ActionListenerGenerateBillingRequest:81 - Showing request.
+2015-03-03 15:07:22 INFO  ActionListenerGenerateBillingRequest:87 - Success!
+2015-03-03 15:07:29 INFO  DialogFind:78 - Dialog singleton created!
+2015-03-03 15:12:17 INFO  Integrator:35 - START
+2015-03-03 15:12:17 DEBUG Integrator:62 - Main frame executing on its own thread.
+2015-03-03 15:12:17 INFO  Integrator:63 - END
+2015-03-03 15:12:23 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 15:12:23 INFO  MainFrame:54 - Initializing....
+2015-03-03 15:12:23 DEBUG MainFrame:66 - Main panel created.
+2015-03-03 15:12:23 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2015-03-03 15:12:24 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2015-03-03 15:12:24 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2015-03-03 15:12:24 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2015-03-03 15:12:24 DEBUG MainFrame:70 - Environment settings panel created.
+2015-03-03 15:12:24 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2015-03-03 15:12:24 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2015-03-03 15:12:24 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2015-03-03 15:12:24 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2015-03-03 15:12:24 DEBUG MainFrame:74 - JDBC settings panel created.
+2015-03-03 15:12:24 INFO  TabPanelBilling:71 - Initializing....
+2015-03-03 15:12:24 INFO  TabPanelBilling:81 - Finished panel initialization.
+2015-03-03 15:12:24 DEBUG MainFrame:79 - Billing panel created.
+2015-03-03 15:12:24 INFO  MainFrameMenuBar:64 - Creating Frame Menu Bar....
+2015-03-03 15:12:24 DEBUG MainFrameMenuBar:144 - File menu created.
+2015-03-03 15:12:24 DEBUG MainFrameMenuBar:214 - Edit menu created.
+2015-03-03 15:12:24 DEBUG MainFrameMenuBar:243 - View menu created.
+2015-03-03 15:12:24 DEBUG MainFrameMenuBar:274 - Tools menu created.
+2015-03-03 15:12:24 DEBUG MainFrameMenuBar:293 - Help menu created.
+2015-03-03 15:12:24 INFO  MainFrameMenuBar:92 - Frame Menu Bar successfully created
+2015-03-03 15:12:24 DEBUG MainFrame:90 - Menu bar created.
+2015-03-03 15:12:24 INFO  MainFrame:94 - Finished main frame initialization.
+2015-03-03 15:12:34 INFO  ActionListenerGenerateBillingRequest:52 - Start.
+2015-03-03 15:12:34 DEBUG ActionListenerGenerateBillingRequest:76 - Creating request.
+2015-03-03 15:12:35 DEBUG CustomerOrderSOAPClientSAAJ:169 - SOAP Message Request: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1234</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2015-03-03 15:12:35 DEBUG ActionListenerGenerateBillingRequest:81 - Showing request.
+2015-03-03 15:12:35 INFO  ActionListenerGenerateBillingRequest:87 - Success!
+2015-03-03 15:12:39 INFO  DialogFind:78 - Dialog singleton created!
+2015-03-03 15:55:18 INFO  DialogFind:83 - Got singleton instance.
+2015-03-03 16:06:54 INFO  DialogFind:83 - Got singleton instance.
+2015-03-03 16:07:02 INFO  DialogFind:83 - Got singleton instance.
+2015-03-03 16:18:44 INFO  Integrator:35 - START
+2015-03-03 16:18:44 DEBUG Integrator:62 - Main frame executing on its own thread.
+2015-03-03 16:18:44 INFO  Integrator:63 - END
+2015-03-03 16:18:51 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-03 16:18:51 INFO  MainFrame:54 - Initializing....
+2015-03-03 16:18:51 DEBUG MainFrame:66 - Main panel created.
+2015-03-03 16:18:51 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2015-03-03 16:18:51 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2015-03-03 16:18:51 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2015-03-03 16:18:51 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2015-03-03 16:18:51 DEBUG MainFrame:70 - Environment settings panel created.
+2015-03-03 16:18:51 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2015-03-03 16:18:51 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2015-03-03 16:18:51 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2015-03-03 16:18:51 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2015-03-03 16:18:51 DEBUG MainFrame:74 - JDBC settings panel created.
+2015-03-03 16:18:51 INFO  TabPanelBilling:71 - Initializing....
+2015-03-03 16:18:51 INFO  TabPanelBilling:81 - Finished panel initialization.
+2015-03-03 16:18:51 DEBUG MainFrame:79 - Billing panel created.
+2015-03-03 16:18:51 INFO  MainFrameMenuBar:64 - Creating Frame Menu Bar....
+2015-03-03 16:18:51 DEBUG MainFrameMenuBar:144 - File menu created.
+2015-03-03 16:18:51 DEBUG MainFrameMenuBar:214 - Edit menu created.
+2015-03-03 16:18:51 DEBUG MainFrameMenuBar:243 - View menu created.
+2015-03-03 16:18:51 DEBUG MainFrameMenuBar:274 - Tools menu created.
+2015-03-03 16:18:51 DEBUG MainFrameMenuBar:293 - Help menu created.
+2015-03-03 16:18:51 INFO  MainFrameMenuBar:92 - Frame Menu Bar successfully created
+2015-03-03 16:18:51 DEBUG MainFrame:90 - Menu bar created.
+2015-03-03 16:18:51 INFO  MainFrame:94 - Finished main frame initialization.
+2015-03-03 16:19:03 INFO  ActionListenerGenerateBillingRequest:52 - Start.
+2015-03-03 16:19:03 DEBUG ActionListenerGenerateBillingRequest:76 - Creating request.
+2015-03-03 16:19:03 DEBUG CustomerOrderSOAPClientSAAJ:169 - SOAP Message Request: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1234</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2015-03-03 16:19:03 DEBUG ActionListenerGenerateBillingRequest:81 - Showing request.
+2015-03-03 16:19:03 INFO  ActionListenerGenerateBillingRequest:87 - Success!
+2015-03-03 16:19:10 INFO  DialogFind:78 - Dialog singleton created!
+2015-03-03 16:19:29 INFO  TabPanelBillingInfoPanelBottom:305 - Non production environment.
+2015-03-03 16:19:29 INFO  ActionListenerGenerateBillingRequest:52 - Start.
+2015-03-03 16:19:29 DEBUG ActionListenerGenerateBillingRequest:76 - Creating request.
+2015-03-03 16:19:29 DEBUG CustomerOrderSOAPClientSAAJ:169 - SOAP Message Request: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1234</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2015-03-03 16:19:29 DEBUG ActionListenerGenerateBillingRequest:81 - Showing request.
+2015-03-03 16:19:29 INFO  ActionListenerGenerateBillingRequest:87 - Success!
+2015-03-03 16:19:33 INFO  ActionListenerCallGetBillingInfo:64 - Start.
+2015-03-03 16:19:33 INFO  ActionListenerCallGetBillingInfo:225 - Success!
+2015-03-03 16:19:33 DEBUG ActionListenerCallGetBillingInfo:105 - URL validated: http://10.41.254.48:8888/crm/siebel8/getCustomerOrderBillInfo?WSDL
+2015-03-03 16:19:33 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2015-03-03 16:19:33 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2015-03-03 16:19:33 TRACE ProgressDialog:181 - Label updated to: Criando pedido SOAP.
+2015-03-03 16:19:33 DEBUG ActionListenerCallGetBillingInfo:125 - SOAP Message Request from caller: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1234</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2015-03-03 16:19:33 TRACE ProgressDialog:181 - Label updated to: Chamando o Get Billing Info.
+2015-03-03 16:19:33 INFO  ActionListenerCallGetBillingInfo:138 - Got Billing Info response!
+2015-03-03 16:19:33 TRACE ProgressDialog:181 - Label updated to: Processando a resposta...
+2015-03-03 16:19:33 TRACE ActionListenerCallGetBillingInfo:147 - Billing Info: <?xml version="1.0" encoding="UTF-8"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><SOAP-ENV:Fault><faultcode>SOAP-ENV:Server</faultcode><faultstring>Amount of found orders is not equal to 1 - 0(SBL-BPR-00131)(SBL-BPR-00131)</faultstring><detail><siebelf:siebdetail xmlns:siebelf="http://www.siebel.com/ws/fault"><siebelf:logfilename>EAIObjMgr_ptb_1546_1621100288.log</siebelf:logfilename><siebelf:errorstack><siebelf:error><siebelf:errorcode>SBL-BPR-00131</siebelf:errorcode><siebelf:errorsymbol>WF_ERR_CUSTOM_1</siebelf:errorsymbol><siebelf:errormsg>Amount of found orders is not equal to 1 - 0(SBL-BPR-00131)(SBL-BPR-00131)</siebelf:errormsg></siebelf:error><siebelf:error><siebelf:errorcode>SBL-BPR-00131</siebelf:errorcode><siebelf:errorsymbol>WF_ERR_CUSTOM_1</siebelf:errorsymbol><siebelf:errormsg>Amount of found orders is not equal to 1 - 0(SBL-BPR-00131)</siebelf:errormsg></siebelf:error></siebelf:errorstack></siebelf:siebdetail></detail></SOAP-ENV:Fault></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2015-03-03 16:19:33 TRACE ProgressDialog:181 - Label updated to: Formatando.
+2015-03-03 16:19:33 TRACE ProgressDialog:181 - Label updated to: Terminado!
+2015-03-03 16:19:34 TRACE ProgressDialog:263 - Dialog stoped!
+2015-03-03 16:19:36 INFO  DialogFind:83 - Got singleton instance.
+2015-03-03 16:20:45 INFO  DialogFind:83 - Got singleton instance.
+2015-03-03 16:28:02 INFO  ActionListenerGenerateBillingRequest:52 - Start.
+2015-03-03 16:28:02 DEBUG ActionListenerGenerateBillingRequest:76 - Creating request.
+2015-03-03 16:28:02 DEBUG CustomerOrderSOAPClientSAAJ:169 - SOAP Message Request: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1234</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2015-03-03 16:28:02 DEBUG ActionListenerGenerateBillingRequest:81 - Showing request.
+2015-03-03 16:28:02 INFO  ActionListenerGenerateBillingRequest:87 - Success!
+2015-03-03 16:28:12 INFO  ActionListenerSaveDatabasesSettings:43 - Saving database settings...
+2015-03-03 16:28:15 INFO  ActionListenerSaveDatabasesSettings:82 - Environments saved!
+2015-03-03 16:28:15 INFO  ActionListenerSaveEnvironmentsSettings:43 - Saving environments...
+2015-03-03 16:28:17 INFO  ActionListenerSaveEnvironmentsSettings:68 - Environments saved!
+2015-03-03 16:42:22 INFO  DialogFind:83 - Got singleton instance.

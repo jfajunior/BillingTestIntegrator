@@ -1,0 +1,19 @@
+The crux of this issue is there is a change in the JAXB API, the runtime implementation you are attempting to use does not match the version of the JAXB API bundled with the JDK.
+
+In order to use a different version, you should copy coresponding versions of jaxb-api.jar and jaxws-api.jar into an endorsed lib (e.g. %JAVA_HOME%\lib\endorsed).
+
+A complete list of options is given in section 7.1.2 of the Unofficial JAXB Guide
+
+It is a mistake to copy the implementation jars (e.g. jaxb-impl.jar) into endorsed lib, these should simply be on your classpath.
+
+Also note that you can get into trouble if you attempt to use a newer version of jaxb without also including a compatible version of jaxws. This is because the old jaxws attempts to reference the old jaxb, so if you're changing one make sure you do both. (Stack-trace in package com.sun.xml.internal.ws implicates an old jax-ws implementation. Even the latest release of Java still ships with old version 1 jaxb and jaxws apis).
+
+
+----------------------------------------------------------------------------------------------------
+
+PATH: 
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\endorsed
+javax.annotation_1.0.0.0_1-0.jar
+javax.xml.bind_2.1.1.jar
+javax.xml.ws_2.1.1.jar
+

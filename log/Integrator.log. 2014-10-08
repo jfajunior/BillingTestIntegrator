@@ -1,0 +1,27 @@
+2014-10-08 17:10:07 INFO  Integrator:37 - START
+2014-10-08 17:10:08 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-10-08 17:10:08 INFO  Integrator:64 - END
+2014-10-08 17:10:13 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-10-08 17:10:13 INFO  MainFrame:54 - Initializing....
+2014-10-08 17:10:13 DEBUG MainFrame:66 - Main panel created.
+2014-10-08 17:10:13 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-10-08 17:10:14 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-10-08 17:10:14 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-10-08 17:10:14 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-10-08 17:10:14 DEBUG MainFrame:70 - Environment settings panel created.
+2014-10-08 17:10:14 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-10-08 17:10:14 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-10-08 17:10:14 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-10-08 17:10:14 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-10-08 17:10:14 DEBUG MainFrame:74 - JDBC settings panel created.
+2014-10-08 17:10:14 INFO  TabPanelBilling:67 - Initializing....
+2014-10-08 17:10:15 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-10-08 17:10:15 DEBUG MainFrame:79 - Billing panel created.
+2014-10-08 17:10:15 INFO  MainFrameMenuBar:52 - Creating Frame Menu Bar....
+2014-10-08 17:10:15 DEBUG MainFrameMenuBar:115 - File menu created.
+2014-10-08 17:10:15 DEBUG MainFrameMenuBar:144 - View menu created.
+2014-10-08 17:10:15 DEBUG MainFrameMenuBar:164 - Tools menu created.
+2014-10-08 17:10:15 DEBUG MainFrameMenuBar:183 - Help menu created.
+2014-10-08 17:10:15 INFO  MainFrameMenuBar:75 - Frame Menu Bar successfully created
+2014-10-08 17:10:15 DEBUG MainFrame:89 - Menu bar created.
+2014-10-08 17:10:15 INFO  MainFrame:93 - Finished main frame initialization.

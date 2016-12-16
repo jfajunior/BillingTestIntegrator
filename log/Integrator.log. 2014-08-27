@@ -1,0 +1,1156 @@
+2014-08-27 09:04:24 WARN  ActionListenerUnlockAccount:77 - Não existe código de perfil de fatura neste pedido!
+2014-08-27 09:05:53 WARN  ActionListenerUnlockAccount:77 - Não existe código de perfil de fatura neste pedido!
+2014-08-27 09:06:41 WARN  ActionListenerUnlockAccount:77 - Não existe código de perfil de fatura neste pedido!
+2014-08-27 10:31:40 INFO  Integrator:37 - START
+2014-08-27 10:31:41 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 10:31:41 INFO  Integrator:64 - END
+2014-08-27 10:31:46 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 10:31:46 INFO  MainFrame:54 - Initializing....
+2014-08-27 10:31:46 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 10:31:46 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 10:31:46 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 10:31:46 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 10:31:46 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 10:31:46 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 10:31:47 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 10:31:47 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 10:31:47 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 10:31:47 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 10:31:47 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 10:31:47 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 10:31:47 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 10:31:48 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 10:31:48 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 10:31:48 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 10:31:48 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 10:31:48 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 10:31:49 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 10:31:49 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 10:31:49 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 10:32:08 DEBUG ActionListenerUnlockAccount:159 - Profile Code: 899999969731
+2014-08-27 10:32:09 INFO  ActionListenerUnlockAccount:178 - Rows updated: 0
+2014-08-27 10:32:11 DEBUG ActionListenerUnlockAccount:159 - Profile Code: 899999969732
+2014-08-27 10:32:13 INFO  ActionListenerUnlockAccount:178 - Rows updated: 0
+2014-08-27 10:32:19 WARN  ActionListenerUnlockAccount:75 - There is no invoice profile code in the request!
+2014-08-27 10:33:38 WARN  ActionListenerUnlockAccount:75 - There is no invoice profile code in the request!
+2014-08-27 10:33:44 INFO  Integrator:37 - START
+2014-08-27 10:33:44 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 10:33:44 INFO  Integrator:64 - END
+2014-08-27 10:33:48 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 10:33:48 INFO  MainFrame:54 - Initializing....
+2014-08-27 10:33:48 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 10:33:48 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 10:33:48 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 10:33:48 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 10:33:48 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 10:33:48 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 10:33:48 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 10:33:48 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 10:33:49 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 10:33:49 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 10:33:49 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 10:33:49 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 10:33:49 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 10:33:49 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 10:33:49 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 10:33:49 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 10:33:49 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 10:33:49 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 10:33:49 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 10:33:49 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 10:33:49 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 10:33:54 WARN  ActionListenerUnlockAccount:75 - There is no invoice profile code in the request!
+2014-08-27 10:34:09 INFO  ActionListenerTestDatabaseConnection:71 - Connection OK!
+2014-08-27 10:34:15 INFO  ActionListenerTestDatabaseConnection:71 - Connection OK!
+2014-08-27 10:34:22 ERROR ActionListenerTestDatabaseConnection:79 - Got an SQL exception!
+2014-08-27 10:34:22 ERROR ActionListenerTestDatabaseConnection:80 - Error message: ORA-01017: invalid username/password; logon denied
+
+2014-08-27 10:34:28 ERROR ActionListenerTestDatabaseConnection:79 - Got an SQL exception!
+2014-08-27 10:34:28 ERROR ActionListenerTestDatabaseConnection:80 - Error message: Exceção de E/S: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=169870336)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4))))
+2014-08-27 10:34:40 ERROR ActionListenerTestDatabaseConnection:79 - Got an SQL exception!
+2014-08-27 10:34:40 ERROR ActionListenerTestDatabaseConnection:80 - Error message: Exceção de E/S: The Network Adapter could not establish the connection
+2014-08-27 10:34:46 INFO  ActionListenerTestDatabaseConnection:71 - Connection OK!
+2014-08-27 10:34:59 WARN  ActionListenerUnlockAccount:75 - There is no invoice profile code in the request!
+2014-08-27 10:35:14 DEBUG ActionListenerUnlockAccount:159 - Profile Code: 899999969732
+2014-08-27 10:35:15 INFO  ActionListenerUnlockAccount:178 - Rows updated: 0
+2014-08-27 10:59:54 INFO  Integrator:37 - START
+2014-08-27 10:59:54 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 10:59:54 INFO  Integrator:64 - END
+2014-08-27 10:59:58 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 10:59:58 INFO  MainFrame:54 - Initializing....
+2014-08-27 10:59:58 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 10:59:58 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 10:59:58 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 10:59:58 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 10:59:58 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 10:59:58 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 10:59:58 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 10:59:58 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 10:59:58 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 10:59:58 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 10:59:58 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 10:59:58 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 10:59:58 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 10:59:58 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 10:59:58 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 10:59:58 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 10:59:58 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 10:59:58 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 10:59:58 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 10:59:58 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 10:59:58 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 11:01:23 INFO  Integrator:37 - START
+2014-08-27 11:01:23 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 11:01:23 INFO  Integrator:64 - END
+2014-08-27 11:01:27 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 11:01:27 INFO  MainFrame:54 - Initializing....
+2014-08-27 11:01:27 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 11:01:27 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 11:01:28 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 11:01:28 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 11:01:28 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 11:01:28 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 11:01:28 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 11:01:28 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 11:01:28 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 11:01:28 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 11:01:28 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 11:01:28 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 11:01:28 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 11:01:28 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 11:01:28 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 11:01:28 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 11:01:28 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 11:01:28 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 11:01:28 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 11:01:28 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 11:01:28 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 11:01:39 DEBUG ActionListenerUnlockAccount:182 - Profile Code: 899999969730
+2014-08-27 11:01:40 INFO  ActionListenerUnlockAccount:201 - Rows updated: 0
+2014-08-27 11:01:41 DEBUG ActionListenerUnlockAccount:182 - Profile Code: 899999969731
+2014-08-27 11:01:42 INFO  ActionListenerUnlockAccount:201 - Rows updated: 0
+2014-08-27 11:01:51 DEBUG ActionListenerUnlockAccount:182 - Profile Code: 899999969730
+2014-08-27 11:01:52 INFO  ActionListenerUnlockAccount:201 - Rows updated: 0
+2014-08-27 11:01:52 DEBUG ActionListenerUnlockAccount:182 - Profile Code: 899999969731
+2014-08-27 11:01:54 INFO  ActionListenerUnlockAccount:201 - Rows updated: 0
+2014-08-27 11:01:54 DEBUG ActionListenerUnlockAccount:182 - Profile Code: 899999969732
+2014-08-27 11:01:55 INFO  ActionListenerUnlockAccount:201 - Rows updated: 0
+2014-08-27 11:02:04 DEBUG ActionListenerUnlockAccount:182 - Profile Code: 899999969730
+2014-08-27 11:02:15 INFO  ActionListenerUnlockAccount:201 - Rows updated: 0
+2014-08-27 11:02:17 DEBUG ActionListenerUnlockAccount:182 - Profile Code: 899999969731
+2014-08-27 11:02:17 INFO  ActionListenerUnlockAccount:201 - Rows updated: 0
+2014-08-27 11:02:17 DEBUG ActionListenerUnlockAccount:182 - Profile Code: 899999969732
+2014-08-27 11:02:18 INFO  ActionListenerUnlockAccount:201 - Rows updated: 0
+2014-08-27 14:29:20 INFO  Integrator:37 - START
+2014-08-27 14:29:21 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 14:29:21 INFO  Integrator:64 - END
+2014-08-27 14:29:26 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 14:29:26 INFO  MainFrame:54 - Initializing....
+2014-08-27 14:29:26 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 14:29:27 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 14:29:27 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 14:29:27 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 14:29:27 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 14:29:27 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 14:29:27 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 14:29:27 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 14:29:27 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 14:29:27 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 14:29:27 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 14:29:27 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 14:29:27 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 14:29:27 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 14:29:27 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 14:29:27 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 14:29:27 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 14:29:27 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 14:29:28 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 14:29:28 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 14:29:28 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 14:30:11 WARN  ActionListenerUnlockAccount:75 - There is no invoice profile code in the request!
+2014-08-27 14:31:25 INFO  Integrator:37 - START
+2014-08-27 14:31:25 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 14:31:25 INFO  Integrator:64 - END
+2014-08-27 14:31:29 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 14:31:29 INFO  MainFrame:54 - Initializing....
+2014-08-27 14:31:29 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 14:31:29 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 14:31:29 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 14:31:29 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 14:31:29 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 14:31:29 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 14:31:29 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 14:31:29 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 14:31:29 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 14:31:29 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 14:31:29 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 14:31:29 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 14:31:29 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 14:31:29 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 14:31:30 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 14:31:30 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 14:31:30 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 14:31:30 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 14:31:30 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 14:31:30 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 14:31:30 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 14:31:34 INFO  Integrator:37 - START
+2014-08-27 14:31:34 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 14:31:34 INFO  Integrator:64 - END
+2014-08-27 14:31:38 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 14:31:38 INFO  MainFrame:54 - Initializing....
+2014-08-27 14:31:38 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 14:31:38 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 14:31:38 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 14:31:38 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 14:31:38 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 14:31:38 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 14:31:38 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 14:31:38 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 14:31:38 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 14:31:38 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 14:31:38 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 14:31:38 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 14:31:38 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 14:31:38 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 14:31:38 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 14:31:38 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 14:31:38 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 14:31:38 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 14:31:38 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 14:31:38 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 14:31:38 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 14:31:49 INFO  MainFrame:51 - END
+2014-08-27 14:34:10 INFO  Integrator:37 - START
+2014-08-27 14:34:10 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 14:34:10 INFO  Integrator:64 - END
+2014-08-27 14:34:14 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 14:34:14 INFO  MainFrame:54 - Initializing....
+2014-08-27 14:34:14 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 14:34:14 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 14:34:14 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 14:34:14 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 14:34:14 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 14:34:14 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 14:34:14 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 14:34:14 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 14:34:14 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 14:34:14 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 14:34:14 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 14:34:14 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 14:34:14 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 14:34:14 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 14:34:14 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 14:34:14 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 14:34:14 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 14:34:14 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 14:34:14 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 14:34:14 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 14:34:14 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 14:34:18 INFO  TabPanelBillingInfoPanelBottom:304 - Production environment selected!
+2014-08-27 14:34:27 INFO  ActionListenerCallKenan:66 - Start.
+2014-08-27 14:34:37 INFO  ActionListenerCallKenan:66 - Start.
+2014-08-27 14:34:37 DEBUG ActionListenerCallKenan:108 - URL validated: http://esbgvtna2.gvt.net.br:8888/crm/siebel8/getCustomerOrderBillInfo?WSDL
+2014-08-27 14:34:41 INFO  ActionListenerCallKenan:134 - User rejected production environment call!
+2014-08-27 14:34:43 INFO  ActionListenerCallKenan:66 - Start.
+2014-08-27 14:34:43 DEBUG ActionListenerCallKenan:108 - URL validated: http://esbgvtna2.gvt.net.br:8888/crm/siebel8/getCustomerOrderBillInfo?WSDL
+2014-08-27 14:34:49 INFO  ActionListenerCallKenan:131 - Going for a production environment call!
+2014-08-27 14:34:49 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 14:34:49 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 14:34:49 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 14:34:51 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 14:34:51 ERROR ActionListenerCallKenan:304 - 
+2014-08-27 14:34:51 ERROR ActionListenerCallKenan:308 - 
+2014-08-27 14:34:51 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 14:34:51 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 14:37:11 INFO  Integrator:37 - START
+2014-08-27 14:37:11 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 14:37:11 INFO  Integrator:64 - END
+2014-08-27 14:37:15 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 14:37:15 INFO  MainFrame:54 - Initializing....
+2014-08-27 14:37:15 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 14:37:15 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 14:37:15 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 14:37:15 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 14:37:15 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 14:37:15 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 14:37:15 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 14:37:15 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 14:37:15 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 14:37:15 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 14:37:15 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 14:37:15 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 14:37:15 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 14:37:15 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 14:37:15 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 14:37:15 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 14:37:15 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 14:37:15 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 14:37:15 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 14:37:15 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 14:37:15 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 14:37:27 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 14:37:27 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 14:37:27 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 14:37:27 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 14:37:27 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 14:37:28 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 14:37:28 ERROR ActionListenerCallKenan:288 - 
+2014-08-27 14:37:28 ERROR ActionListenerCallKenan:292 - 
+2014-08-27 14:37:28 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 14:37:28 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 14:37:59 INFO  Integrator:37 - START
+2014-08-27 14:37:59 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 14:37:59 INFO  Integrator:64 - END
+2014-08-27 14:38:03 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 14:38:03 INFO  MainFrame:54 - Initializing....
+2014-08-27 14:38:03 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 14:38:03 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 14:38:03 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 14:38:03 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 14:38:03 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 14:38:03 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 14:38:03 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 14:38:03 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 14:38:03 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 14:38:03 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 14:38:03 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 14:38:03 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 14:38:03 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 14:38:03 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 14:38:03 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 14:38:03 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 14:38:03 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 14:38:03 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 14:38:04 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 14:38:04 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 14:38:04 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 14:38:13 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 14:41:41 INFO  Integrator:37 - START
+2014-08-27 14:41:41 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 14:41:41 INFO  Integrator:64 - END
+2014-08-27 14:41:45 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 14:41:45 INFO  MainFrame:54 - Initializing....
+2014-08-27 14:41:45 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 14:41:45 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 14:41:45 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 14:41:45 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 14:41:45 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 14:41:45 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 14:41:45 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 14:41:45 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 14:41:45 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 14:41:45 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 14:41:45 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 14:41:45 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 14:41:45 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 14:41:45 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 14:41:45 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 14:41:45 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 14:41:45 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 14:41:45 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 14:41:46 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 14:41:46 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 14:41:46 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 14:41:56 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 14:41:59 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 14:42:08 INFO  ActionListenerCallKenan:103 - User rejected execute order because the client account is in billing cycle!
+2014-08-27 14:42:10 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 14:42:16 INFO  ActionListenerCallKenan:100 - Going to execute order through even billing cycle running for the account [x]!
+2014-08-27 14:42:16 DEBUG ActionListenerCallKenan:125 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 14:42:16 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 14:42:16 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 14:42:16 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 14:42:17 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 14:42:17 ERROR ActionListenerCallKenan:307 - 
+2014-08-27 14:42:17 ERROR ActionListenerCallKenan:311 - 
+2014-08-27 14:42:17 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 14:42:17 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 14:47:05 INFO  Integrator:37 - START
+2014-08-27 14:47:05 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 14:47:05 INFO  Integrator:64 - END
+2014-08-27 14:47:09 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 14:47:09 INFO  MainFrame:54 - Initializing....
+2014-08-27 14:47:09 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 14:47:09 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 14:47:09 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 14:47:09 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 14:47:09 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 14:47:09 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 14:47:09 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 14:47:09 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 14:47:09 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 14:47:09 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 14:47:09 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 14:47:09 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 14:47:09 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 14:47:09 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 14:47:09 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 14:47:09 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 14:47:09 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 14:47:09 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 14:47:09 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 14:47:09 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 14:47:09 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 14:47:18 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 14:47:34 INFO  ActionListenerCallKenan:85 - User rejected execute order because the client account is in billing cycle!
+2014-08-27 14:47:43 INFO  Integrator:37 - START
+2014-08-27 14:47:43 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 14:47:43 INFO  Integrator:64 - END
+2014-08-27 14:47:48 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 14:47:48 INFO  MainFrame:54 - Initializing....
+2014-08-27 14:47:48 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 14:47:48 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 14:47:48 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 14:47:48 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 14:47:48 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 14:47:48 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 14:47:48 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 14:47:48 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 14:47:48 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 14:47:48 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 14:47:48 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 14:47:48 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 14:47:48 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 14:47:48 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 14:47:48 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 14:47:48 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 14:47:48 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 14:47:48 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 14:47:48 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 14:47:48 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 14:47:48 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 14:47:53 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 14:48:05 INFO  ActionListenerCallKenan:85 - User rejected execute order because the client account is in billing cycle!
+2014-08-27 14:50:33 INFO  Integrator:37 - START
+2014-08-27 14:50:33 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 14:50:33 INFO  Integrator:64 - END
+2014-08-27 14:50:37 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 14:50:37 INFO  MainFrame:54 - Initializing....
+2014-08-27 14:50:37 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 14:50:37 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 14:50:38 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 14:50:38 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 14:50:38 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 14:50:38 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 14:50:38 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 14:50:38 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 14:50:38 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 14:50:38 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 14:50:38 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 14:50:38 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 14:50:38 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 14:50:38 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 14:50:38 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 14:50:38 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 14:50:38 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 14:50:38 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 14:50:38 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 14:50:38 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 14:50:38 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 14:50:47 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 14:50:47 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 14:50:47 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 14:50:47 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 14:50:47 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 14:50:48 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 14:50:48 ERROR ActionListenerCallKenan:288 - 
+2014-08-27 14:50:48 ERROR ActionListenerCallKenan:292 - 
+2014-08-27 14:50:48 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 14:50:48 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 14:50:51 INFO  TabPanelBillingInfoPanelBottom:304 - Production environment selected!
+2014-08-27 14:50:52 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 14:50:52 DEBUG ActionListenerCallKenan:107 - URL validated: http://esbgvtna2.gvt.net.br:8888/crm/siebel8/getCustomerOrderBillInfo?WSDL
+2014-08-27 14:51:04 INFO  ActionListenerCallKenan:123 - User rejected production environment call!
+2014-08-27 14:51:27 INFO  Integrator:37 - START
+2014-08-27 14:51:27 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 14:51:27 INFO  Integrator:64 - END
+2014-08-27 14:51:31 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 14:51:31 INFO  MainFrame:54 - Initializing....
+2014-08-27 14:51:31 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 14:51:31 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 14:51:31 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 14:51:31 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 14:51:31 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 14:51:31 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 14:51:31 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 14:51:31 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 14:51:31 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 14:51:31 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 14:51:31 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 14:51:31 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 14:51:31 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 14:51:31 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 14:51:31 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 14:51:31 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 14:51:31 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 14:51:31 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 14:51:31 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 14:51:31 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 14:51:31 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 14:51:40 INFO  TabPanelBillingInfoPanelBottom:304 - Production environment selected!
+2014-08-27 14:51:40 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 14:51:40 DEBUG ActionListenerCallKenan:107 - URL validated: http://esbgvtna2.gvt.net.br:8888/crm/siebel8/getCustomerOrderBillInfo?WSDL
+2014-08-27 14:51:42 INFO  ActionListenerCallKenan:123 - User rejected production environment call!
+2014-08-27 14:51:51 INFO  Integrator:37 - START
+2014-08-27 14:51:51 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 14:51:51 INFO  Integrator:64 - END
+2014-08-27 14:51:56 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 14:51:56 INFO  MainFrame:54 - Initializing....
+2014-08-27 14:51:56 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 14:51:56 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 14:51:56 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 14:51:56 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 14:51:56 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 14:51:56 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 14:51:56 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 14:51:56 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 14:51:56 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 14:51:56 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 14:51:56 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 14:51:56 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 14:51:56 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 14:51:56 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 14:51:56 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 14:51:56 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 14:51:56 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 14:51:56 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 14:51:56 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 14:51:56 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 14:51:56 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 14:52:03 INFO  TabPanelBillingInfoPanelBottom:304 - Production environment selected!
+2014-08-27 14:52:04 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 14:52:04 DEBUG ActionListenerCallKenan:107 - URL validated: http://esbgvtna2.gvt.net.br:8888/crm/siebel8/getCustomerOrderBillInfo?WSDL
+2014-08-27 14:52:05 INFO  ActionListenerCallKenan:123 - User rejected production environment call!
+2014-08-27 14:52:07 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 14:52:07 DEBUG ActionListenerCallKenan:107 - URL validated: http://esbgvtna2.gvt.net.br:8888/crm/siebel8/getCustomerOrderBillInfo?WSDL
+2014-08-27 14:52:08 INFO  ActionListenerCallKenan:123 - User rejected production environment call!
+2014-08-27 14:57:36 INFO  Integrator:37 - START
+2014-08-27 14:57:36 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 14:57:36 INFO  Integrator:64 - END
+2014-08-27 14:57:40 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 14:57:40 INFO  MainFrame:54 - Initializing....
+2014-08-27 14:57:40 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 14:57:40 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 14:57:40 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 14:57:40 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 14:57:40 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 14:57:40 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 14:57:40 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 14:57:40 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 14:57:40 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 14:57:40 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 14:57:40 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 14:57:40 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 14:57:40 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 14:57:40 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 14:57:40 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 14:57:40 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 14:57:40 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 14:57:40 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 14:57:40 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 14:57:40 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 14:57:40 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 14:57:45 WARN  ActionListenerUnlockAccount:75 - There is no invoice profile code in the request!
+2014-08-27 14:57:56 DEBUG ActionListenerUnlockAccount:179 - Profile Code: 899999969730
+2014-08-27 14:58:01 INFO  ActionListenerUnlockAccount:200 - Rows updated: 0
+2014-08-27 14:58:08 DEBUG ActionListenerUnlockAccount:179 - Profile Code: 899999969730
+2014-08-27 14:58:09 INFO  ActionListenerUnlockAccount:200 - Rows updated: 0
+2014-08-27 14:58:09 DEBUG ActionListenerUnlockAccount:179 - Profile Code: 899999969731
+2014-08-27 14:58:10 INFO  ActionListenerUnlockAccount:200 - Rows updated: 0
+2014-08-27 14:58:10 DEBUG ActionListenerUnlockAccount:179 - Profile Code: 899999969732
+2014-08-27 14:58:11 INFO  ActionListenerUnlockAccount:200 - Rows updated: 0
+2014-08-27 15:07:55 INFO  Integrator:37 - START
+2014-08-27 15:07:55 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 15:07:55 INFO  Integrator:64 - END
+2014-08-27 15:07:59 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 15:07:59 INFO  MainFrame:54 - Initializing....
+2014-08-27 15:07:59 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 15:07:59 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 15:07:59 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 15:07:59 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 15:07:59 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 15:07:59 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 15:07:59 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 15:07:59 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 15:07:59 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 15:07:59 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 15:07:59 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 15:07:59 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 15:07:59 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 15:07:59 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 15:07:59 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 15:07:59 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 15:07:59 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 15:07:59 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 15:07:59 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 15:07:59 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 15:07:59 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 15:08:13 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:08:34 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 15:08:34 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 15:08:36 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 15:08:36 DEBUG ActionListenerGenerateKenanRequest:83 - Transform request is null or empty!
+2014-08-27 15:08:36 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 15:08:41 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:08:45 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 15:08:45 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 15:08:45 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 15:08:45 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 15:08:45 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 15:08:47 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:08:47 ERROR ActionListenerCallKenan:322 - Failed to access the WSDL at: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL. It failed with: 
+	Connection refused: connect.
+2014-08-27 15:08:47 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 15:08:47 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:08:50 INFO  TabPanelBillingInfoPanelBottom:306 - Non production environment.
+2014-08-27 15:09:25 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:09:34 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:09:40 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:09:42 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 15:09:42 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 15:09:43 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 15:09:43 DEBUG ActionListenerGenerateKenanRequest:83 - Transform request is null or empty!
+2014-08-27 15:09:43 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 15:09:47 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:09:49 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 15:09:49 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 15:09:50 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 15:09:50 DEBUG ActionListenerGenerateKenanRequest:83 - Transform request is null or empty!
+2014-08-27 15:09:50 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 15:09:54 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 15:09:54 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 15:09:55 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 15:09:55 DEBUG ActionListenerGenerateKenanRequest:83 - Transform request is null or empty!
+2014-08-27 15:09:55 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 15:10:31 INFO  Integrator:37 - START
+2014-08-27 15:10:31 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 15:10:31 INFO  Integrator:64 - END
+2014-08-27 15:10:35 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 15:10:35 INFO  MainFrame:54 - Initializing....
+2014-08-27 15:10:35 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 15:10:35 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 15:10:35 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 15:10:35 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 15:10:35 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 15:10:35 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 15:10:35 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 15:10:35 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 15:10:35 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 15:10:35 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 15:10:35 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 15:10:35 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 15:10:35 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 15:10:36 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 15:10:36 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 15:10:36 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 15:10:36 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 15:10:36 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 15:10:36 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 15:10:36 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 15:10:36 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 15:11:20 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 15:11:20 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 15:11:21 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 15:11:21 DEBUG ActionListenerGenerateKenanRequest:83 - Transform request is null or empty!
+2014-08-27 15:11:21 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 15:11:43 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 15:11:43 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 15:11:43 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 15:11:43 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 15:11:43 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 15:11:45 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:11:45 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 15:11:45 ERROR ActionListenerCallKenan:322 - Failed to access the WSDL at: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL. It failed with: 
+	Connection refused: connect.
+2014-08-27 15:11:45 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:11:51 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:11:54 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 15:11:54 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 15:11:55 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 15:11:55 DEBUG ActionListenerGenerateKenanRequest:83 - Transform request is null or empty!
+2014-08-27 15:11:55 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 15:14:33 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:14:36 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 15:14:36 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 15:14:37 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 15:14:37 DEBUG ActionListenerGenerateKenanRequest:69 - Account Type: Venda de Oferta
+2014-08-27 15:14:37 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:14:37 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 15:14:42 WARN  TabPanelBillingInfoPanelBottom:338 - Selecting a different Kenan flow than the recommended!
+2014-08-27 15:14:46 INFO  TabPanelBillingInfoPanelBottom:353 - User rejected recommended Kenan flow! Using Service Transfer
+2014-08-27 15:14:47 WARN  TabPanelBillingInfoPanelBottom:338 - Selecting a different Kenan flow than the recommended!
+2014-08-27 15:14:49 INFO  TabPanelBillingInfoPanelBottom:353 - User rejected recommended Kenan flow! Using Service By Service
+2014-08-27 15:14:51 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 15:14:51 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 15:14:52 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 15:14:52 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 15:14:52 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 15:14:53 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:14:53 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 15:14:53 ERROR ActionListenerCallKenan:322 - Failed to access the WSDL at: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL. It failed with: 
+	Connection refused: connect.
+2014-08-27 15:14:53 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:16:22 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:16:24 WARN  TabPanelBillingInfoPanelBottom:338 - Selecting a different Kenan flow than the recommended!
+2014-08-27 15:16:48 INFO  TabPanelBillingInfoPanelBottom:349 - User accepted recommended Kenan flow! Changing to Execute Order
+2014-08-27 15:18:07 INFO  Integrator:37 - START
+2014-08-27 15:18:07 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 15:18:07 INFO  Integrator:64 - END
+2014-08-27 15:18:11 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 15:18:11 INFO  MainFrame:54 - Initializing....
+2014-08-27 15:18:11 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 15:18:11 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 15:18:11 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 15:18:11 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 15:18:11 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 15:18:11 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 15:18:11 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 15:18:11 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 15:18:11 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 15:18:11 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 15:18:11 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 15:18:11 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 15:18:11 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 15:18:11 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 15:18:11 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 15:18:11 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 15:18:11 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 15:18:11 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 15:18:11 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 15:18:11 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 15:18:11 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 15:18:24 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:18:26 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 15:18:26 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 15:18:28 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 15:18:28 DEBUG ActionListenerGenerateKenanRequest:69 - Account Type: Venda de Oferta
+2014-08-27 15:18:28 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:18:28 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 15:18:30 WARN  TabPanelBillingInfoPanelBottom:338 - Selecting a different Kenan flow than the recommended!
+2014-08-27 15:18:32 INFO  TabPanelBillingInfoPanelBottom:353 - User rejected recommended Kenan flow! Using Service Transfer
+2014-08-27 15:18:35 WARN  TabPanelBillingInfoPanelBottom:338 - Selecting a different Kenan flow than the recommended!
+2014-08-27 15:18:36 INFO  TabPanelBillingInfoPanelBottom:353 - User rejected recommended Kenan flow! Using Service By Service
+2014-08-27 15:18:38 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 15:18:38 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 15:18:38 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 15:18:38 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 15:18:44 INFO  ActionListenerCallKenan:153 - User accepted recommended Kenan flow! Changing to Execute Order
+2014-08-27 15:18:44 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:18:44 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 15:18:46 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:18:46 ERROR ActionListenerCallKenan:349 - Failed to access the WSDL at: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL. It failed with: 
+	Connection refused: connect.
+2014-08-27 15:18:46 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 15:18:46 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:18:51 WARN  TabPanelBillingInfoPanelBottom:338 - Selecting a different Kenan flow than the recommended!
+2014-08-27 15:18:54 INFO  TabPanelBillingInfoPanelBottom:353 - User rejected recommended Kenan flow! Using Service By Service
+2014-08-27 15:18:55 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 15:18:55 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 15:18:55 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 15:18:55 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 15:18:58 INFO  ActionListenerCallKenan:153 - User accepted recommended Kenan flow! Changing to Execute Order
+2014-08-27 15:18:58 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:18:58 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 15:18:59 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:18:59 ERROR ActionListenerCallKenan:349 - Failed to access the WSDL at: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL. It failed with: 
+	Connection refused: connect.
+2014-08-27 15:18:59 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 15:18:59 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:19:05 WARN  TabPanelBillingInfoPanelBottom:338 - Selecting a different Kenan flow than the recommended!
+2014-08-27 15:19:07 INFO  TabPanelBillingInfoPanelBottom:353 - User rejected recommended Kenan flow! Using Service Transfer
+2014-08-27 15:19:10 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 15:19:10 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 15:19:10 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 15:19:10 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 15:19:17 INFO  ActionListenerCallKenan:157 - User rejected recommended Kenan flow! Using Service Transfer
+2014-08-27 15:19:21 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:19:21 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 15:19:21 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:19:24 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 15:19:24 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 15:19:24 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 15:19:24 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 15:19:25 INFO  ActionListenerCallKenan:157 - User rejected recommended Kenan flow! Using Service Transfer
+2014-08-27 15:19:33 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:19:33 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 15:19:33 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:19:36 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 15:19:36 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 15:19:36 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 15:19:36 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 15:19:37 INFO  ActionListenerCallKenan:153 - User accepted recommended Kenan flow! Changing to Execute Order
+2014-08-27 15:19:37 INFO  TabPanelBillingInfoPanelBottom:358 - No advice about Kenan flow.
+2014-08-27 15:19:37 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 15:19:39 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 15:19:39 ERROR ActionListenerCallKenan:349 - Failed to access the WSDL at: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL. It failed with: 
+	Connection refused: connect.
+2014-08-27 15:19:39 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 15:19:39 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 16:42:50 WARN  TabPanelBillingInfoPanelBottom:338 - Selecting a different Kenan flow than the recommended!
+2014-08-27 16:42:53 INFO  TabPanelBillingInfoPanelBottom:353 - User rejected recommended Kenan flow! Using Service Transfer
+2014-08-27 16:43:00 INFO  Integrator:37 - START
+2014-08-27 16:43:01 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 16:43:01 INFO  Integrator:64 - END
+2014-08-27 16:43:06 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 16:43:06 INFO  MainFrame:54 - Initializing....
+2014-08-27 16:43:06 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 16:43:06 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 16:43:06 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 16:43:06 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 16:43:06 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 16:43:06 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 16:43:06 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 16:43:06 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 16:43:07 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 16:43:07 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 16:43:07 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 16:43:07 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 16:43:07 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 16:43:08 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 16:43:08 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 16:43:08 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 16:43:08 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 16:43:08 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 16:43:09 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 16:43:09 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 16:43:09 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 16:43:25 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 16:43:25 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 16:43:27 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 16:43:27 DEBUG ActionListenerGenerateKenanRequest:69 - Account Type: Venda de Oferta
+2014-08-27 16:43:27 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 16:43:32 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 16:43:32 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 16:43:33 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 16:43:33 DEBUG ActionListenerGenerateKenanRequest:69 - Account Type: Venda de Oferta
+2014-08-27 16:43:33 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 16:43:37 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 16:43:40 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 16:43:40 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 16:43:41 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 16:43:41 DEBUG ActionListenerGenerateKenanRequest:69 - Account Type: Venda de Oferta
+2014-08-27 16:43:41 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 16:43:49 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 16:43:49 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 16:43:49 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 16:43:49 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 16:43:54 INFO  ActionListenerCallKenan:154 - User accepted recommended Kenan flow! Changing to Execute Order
+2014-08-27 16:43:54 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 16:43:56 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 16:43:56 ERROR ActionListenerCallKenan:353 - Failed to access the WSDL at: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL. It failed with: 
+	Connection refused: connect.
+2014-08-27 16:43:56 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 16:43:56 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 16:47:44 INFO  Integrator:37 - START
+2014-08-27 16:47:44 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 16:47:44 INFO  Integrator:64 - END
+2014-08-27 16:47:48 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 16:47:48 INFO  MainFrame:54 - Initializing....
+2014-08-27 16:47:48 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 16:47:48 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 16:47:48 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 16:47:48 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 16:47:48 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 16:47:48 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 16:47:48 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 16:47:48 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 16:47:48 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 16:47:48 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 16:47:48 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 16:47:48 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 16:47:48 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 16:47:48 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 16:47:48 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 16:47:48 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 16:47:48 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 16:47:48 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 16:47:48 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 16:47:48 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 16:47:48 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 16:48:03 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 16:48:03 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 16:48:05 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 16:48:05 DEBUG ActionListenerGenerateKenanRequest:69 - Account Type: Venda de Oferta
+2014-08-27 16:48:05 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 16:48:09 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 16:48:09 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 16:48:10 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 16:48:10 DEBUG ActionListenerGenerateKenanRequest:69 - Account Type: Venda de Oferta
+2014-08-27 16:48:10 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 16:48:16 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 16:48:16 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 16:48:16 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 16:48:16 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 16:48:45 INFO  ActionListenerCallKenan:159 - User rejected recommended Kenan flow! Using Service Transfer
+2014-08-27 16:48:59 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 16:48:59 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 16:48:59 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 16:49:01 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 16:49:01 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 16:49:01 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 16:49:01 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 16:49:02 INFO  ActionListenerCallKenan:155 - User accepted recommended Kenan flow! Changing to Execute Order
+2014-08-27 16:49:02 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 16:49:04 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 16:49:04 ERROR ActionListenerCallKenan:354 - Failed to access the WSDL at: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL. It failed with: 
+	Connection refused: connect.
+2014-08-27 16:49:04 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 16:49:04 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 16:51:40 INFO  Integrator:37 - START
+2014-08-27 16:51:40 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 16:51:40 INFO  Integrator:64 - END
+2014-08-27 16:51:44 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 16:51:44 INFO  MainFrame:54 - Initializing....
+2014-08-27 16:51:44 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 16:51:44 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 16:51:45 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 16:51:45 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 16:51:45 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 16:51:45 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 16:51:45 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 16:51:45 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 16:51:45 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 16:51:45 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 16:51:45 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 16:51:45 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 16:51:45 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 16:51:45 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 16:51:45 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 16:51:45 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 16:51:45 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 16:51:45 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 16:51:45 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 16:51:45 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 16:51:45 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 16:52:10 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 16:52:10 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 16:52:11 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 16:52:12 DEBUG ActionListenerGenerateKenanRequest:69 - Account Type: Venda de Oferta
+2014-08-27 16:52:12 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 16:52:28 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 16:52:28 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 16:52:28 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 16:52:28 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 16:52:36 INFO  ActionListenerCallKenan:157 - User rejected recommended Kenan flow! Using Service Transfer
+2014-08-27 16:52:36 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 16:52:37 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 16:52:37 ERROR ActionListenerCallKenan:323 - Failed to access the WSDL at: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL. It failed with: 
+	Connection refused: connect.
+2014-08-27 16:52:37 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 16:52:37 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 16:52:55 INFO  ActionListenerCallKenan:65 - Start.
+2014-08-27 16:52:55 DEBUG ActionListenerCallKenan:107 - URL validated: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL
+2014-08-27 16:52:55 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 16:52:55 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 16:53:00 INFO  ActionListenerCallKenan:153 - User accepted recommended Kenan flow! Changing to Execute Order
+2014-08-27 16:53:00 TRACE ProgressDialog:181 - Label updated to: Unmarshalling BillingOrder.
+2014-08-27 16:53:01 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 16:53:01 ERROR ActionListenerCallKenan:323 - Failed to access the WSDL at: http://localhost:7001/BillingAdapter/BillingAdapterService?WSDL. It failed with: 
+	Connection refused: connect.
+2014-08-27 16:53:01 TRACE ProgressDialog:205 - UpdateProgressBarTask stoped doInBackground!
+2014-08-27 16:53:01 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 16:54:56 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 16:54:56 DEBUG ActionListenerGenerateKenanRequest:122 - Creating request.
+2014-08-27 16:54:56 DEBUG ActionListenerGenerateKenanRequest:141 - Showing request.
+2014-08-27 16:54:57 DEBUG ActionListenerGenerateKenanRequest:83 - Transform request is null or empty!
+2014-08-27 16:54:57 INFO  ActionListenerGenerateKenanRequest:151 - Success!
+2014-08-27 16:57:02 INFO  ActionListenerGenerateBillingRequest:52 - Start.
+2014-08-27 16:57:02 DEBUG ActionListenerGenerateBillingRequest:76 - Creating request.
+2014-08-27 16:57:02 DEBUG CustomerOrderSOAPClientSAAJ:170 - SOAP Message Request: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1234</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2014-08-27 16:57:02 DEBUG ActionListenerGenerateBillingRequest:81 - Showing request.
+2014-08-27 16:57:02 INFO  ActionListenerGenerateBillingRequest:87 - Success!
+2014-08-27 16:57:25 INFO  TabPanelBillingInfoPanelBottom:305 - Non production environment.
+2014-08-27 16:57:26 INFO  ActionListenerCallGetBillingInfo:64 - Start.
+2014-08-27 16:57:26 INFO  ActionListenerCallGetBillingInfo:225 - Success!
+2014-08-27 16:57:26 DEBUG ActionListenerCallGetBillingInfo:105 - URL validated: http://10.41.254.48:8888/crm/siebel8/getCustomerOrderBillInfo?WSDL
+2014-08-27 16:57:26 DEBUG ProgressDialog:66 - Dialog running on it's own thread. Exit WorkingDialog.
+2014-08-27 16:57:26 TRACE ProgressDialog:181 - Label updated to: Buscando dados necessários.
+2014-08-27 16:57:26 TRACE ProgressDialog:181 - Label updated to: Criando pedido SOAP.
+2014-08-27 16:57:26 DEBUG ActionListenerCallGetBillingInfo:125 - SOAP Message Request from caller: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:co="http://www.gvt.com.br/siebel/customerorder" xmlns:coi="http://www.gvt.com.br/siebel/customerorderin">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <co:GetCustomerOrderBillInfo>
+            <Request>
+                <coi:GetCustomerBillInfoIn>
+                    <coi:NumeroOrdem>1234</coi:NumeroOrdem>
+                    <coi:IdIntegracao>*</coi:IdIntegracao>
+                </coi:GetCustomerBillInfoIn>
+            </Request>
+        </co:GetCustomerOrderBillInfo>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+2014-08-27 16:57:26 TRACE ProgressDialog:181 - Label updated to: Chamando o Get Billing Info.
+2014-08-27 16:57:26 INFO  ActionListenerCallGetBillingInfo:138 - Got Billing Info response!
+2014-08-27 16:57:26 TRACE ProgressDialog:181 - Label updated to: Processando a resposta...
+2014-08-27 16:57:26 TRACE ActionListenerCallGetBillingInfo:147 - Billing Info: <?xml version="1.0" encoding="UTF-8"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><SOAP-ENV:Fault><faultcode>SOAP-ENV:Server</faultcode><faultstring>Amount of found orders is not equal to 1 - 0(SBL-BPR-00131)(SBL-BPR-00131)</faultstring><detail><siebelf:siebdetail xmlns:siebelf="http://www.siebel.com/ws/fault"><siebelf:logfilename>EAIObjMgr_ptb_0039_40894642.log</siebelf:logfilename><siebelf:errorstack><siebelf:error><siebelf:errorcode>SBL-BPR-00131</siebelf:errorcode><siebelf:errorsymbol>WF_ERR_CUSTOM_1</siebelf:errorsymbol><siebelf:errormsg>Amount of found orders is not equal to 1 - 0(SBL-BPR-00131)(SBL-BPR-00131)</siebelf:errormsg></siebelf:error><siebelf:error><siebelf:errorcode>SBL-BPR-00131</siebelf:errorcode><siebelf:errorsymbol>WF_ERR_CUSTOM_1</siebelf:errorsymbol><siebelf:errormsg>Amount of found orders is not equal to 1 - 0(SBL-BPR-00131)</siebelf:errormsg></siebelf:error></siebelf:errorstack></siebelf:siebdetail></detail></SOAP-ENV:Fault></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2014-08-27 16:57:26 TRACE ProgressDialog:181 - Label updated to: Formatando.
+2014-08-27 16:57:26 TRACE ProgressDialog:181 - Label updated to: Terminado!
+2014-08-27 16:57:26 TRACE ProgressDialog:263 - Dialog stoped!
+2014-08-27 17:02:35 INFO  Integrator:37 - START
+2014-08-27 17:02:35 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 17:02:35 INFO  Integrator:64 - END
+2014-08-27 17:02:39 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 17:02:39 INFO  MainFrame:54 - Initializing....
+2014-08-27 17:02:39 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 17:02:39 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 17:02:39 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 17:02:39 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 17:02:39 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 17:02:39 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 17:02:39 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 17:02:39 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 17:02:40 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 17:02:40 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 17:02:40 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 17:02:40 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 17:02:40 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 17:02:40 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 17:02:40 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 17:02:40 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 17:02:40 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 17:02:40 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 17:02:40 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 17:02:40 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 17:02:40 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 17:06:16 INFO  Integrator:37 - START
+2014-08-27 17:06:16 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 17:06:16 INFO  Integrator:64 - END
+2014-08-27 17:06:20 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 17:06:20 INFO  MainFrame:54 - Initializing....
+2014-08-27 17:06:20 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 17:06:20 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 17:06:20 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 17:06:20 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 17:06:20 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 17:06:20 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 17:06:20 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 17:06:20 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 17:06:20 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 17:06:20 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 17:06:20 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 17:06:20 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 17:06:20 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 17:06:20 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 17:06:20 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 17:06:20 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 17:06:20 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 17:06:20 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 17:06:20 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 17:06:20 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 17:06:20 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 17:08:18 INFO  Integrator:37 - START
+2014-08-27 17:08:18 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 17:08:18 INFO  Integrator:64 - END
+2014-08-27 17:08:22 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 17:08:22 INFO  MainFrame:54 - Initializing....
+2014-08-27 17:08:22 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 17:08:22 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 17:08:22 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 17:08:22 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 17:08:22 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 17:08:22 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 17:08:22 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 17:08:22 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 17:08:22 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 17:08:22 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 17:08:22 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 17:08:22 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 17:08:22 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 17:08:22 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 17:08:22 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 17:08:22 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 17:08:22 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 17:08:22 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 17:08:22 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 17:08:22 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 17:08:22 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 17:10:18 INFO  Integrator:37 - START
+2014-08-27 17:10:18 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 17:10:18 INFO  Integrator:64 - END
+2014-08-27 17:10:22 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 17:10:22 INFO  MainFrame:54 - Initializing....
+2014-08-27 17:10:22 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 17:10:22 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 17:10:22 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 17:10:22 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 17:10:22 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 17:10:22 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 17:10:22 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 17:10:22 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 17:10:22 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 17:10:23 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 17:10:23 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 17:10:23 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 17:10:23 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 17:10:23 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 17:10:23 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 17:10:23 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 17:10:23 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 17:10:23 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 17:10:23 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 17:10:23 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 17:10:23 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 17:10:48 INFO  ActionListenerGenerateBillingRequest:52 - Start.
+2014-08-27 17:10:51 INFO  ActionListenerGenerateTransformRequest:69 - Start.
+2014-08-27 17:10:55 INFO  ActionListenerGenerateKenanRequest:98 - Start.
+2014-08-27 17:12:37 INFO  ActionListenerTestDatabaseConnection:71 - Connection OK!
+2014-08-27 17:12:39 INFO  ActionListenerTestDatabaseConnection:71 - Connection OK!
+2014-08-27 17:12:40 ERROR ActionListenerTestDatabaseConnection:79 - Got an SQL exception!
+2014-08-27 17:12:40 ERROR ActionListenerTestDatabaseConnection:80 - Error message: argumentos inválidos na chamada
+2014-08-27 17:17:40 INFO  Integrator:37 - START
+2014-08-27 17:17:40 DEBUG Integrator:63 - Main frame executing on its own thread.
+2014-08-27 17:17:40 INFO  Integrator:64 - END
+2014-08-27 17:17:45 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2014-08-27 17:17:45 INFO  MainFrame:54 - Initializing....
+2014-08-27 17:17:45 INFO  MainFrameMenuBar:74 - Creating Frame Menu Bar....
+2014-08-27 17:17:45 DEBUG MainFrameMenuBar:89 - File menu created.
+2014-08-27 17:17:45 DEBUG MainFrameMenuBar:112 - View menu created.
+2014-08-27 17:17:45 DEBUG MainFrameMenuBar:125 - Help menu created.
+2014-08-27 17:17:45 INFO  MainFrameMenuBar:133 - Frame Menu Bar successfully created
+2014-08-27 17:17:45 DEBUG MainFrame:66 - Menu bar created.
+2014-08-27 17:17:45 DEBUG MainFrame:70 - Main panel created.
+2014-08-27 17:17:45 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2014-08-27 17:17:45 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2014-08-27 17:17:45 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2014-08-27 17:17:45 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2014-08-27 17:17:45 DEBUG MainFrame:74 - Environment settings panel created.
+2014-08-27 17:17:45 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2014-08-27 17:17:45 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2014-08-27 17:17:45 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2014-08-27 17:17:45 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2014-08-27 17:17:45 DEBUG MainFrame:78 - JDBC settings panel created.
+2014-08-27 17:17:45 INFO  TabPanelBilling:67 - Initializing....
+2014-08-27 17:17:45 INFO  TabPanelBilling:77 - Finished panel initialization.
+2014-08-27 17:17:45 DEBUG MainFrame:84 - Billing panel created.
+2014-08-27 17:17:45 INFO  MainFrame:94 - Finished main frame initialization.
+2014-08-27 17:18:39 DEBUG ActionListenerUnlockAccount:189 - Profile Code: 899999969730
+2014-08-27 17:18:41 INFO  ActionListenerUnlockAccount:210 - Rows updated: 0
+2014-08-27 17:18:43 DEBUG ActionListenerUnlockAccount:189 - Profile Code: 899999969731
+2014-08-27 17:18:44 INFO  ActionListenerUnlockAccount:210 - Rows updated: 0
+2014-08-27 17:18:48 DEBUG ActionListenerUnlockAccount:189 - Profile Code: 899999969730
+2014-08-27 17:18:51 INFO  ActionListenerUnlockAccount:210 - Rows updated: 0
+2014-08-27 17:18:51 DEBUG ActionListenerUnlockAccount:189 - Profile Code: 899999969731
+2014-08-27 17:18:52 INFO  ActionListenerUnlockAccount:210 - Rows updated: 0
+2014-08-27 17:18:52 DEBUG ActionListenerUnlockAccount:189 - Profile Code: 899999969732
+2014-08-27 17:18:53 INFO  ActionListenerUnlockAccount:210 - Rows updated: 0

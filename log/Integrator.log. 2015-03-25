@@ -1,0 +1,28 @@
+2015-03-25 09:18:58 INFO  Integrator:33 - START
+2015-03-25 09:19:00 DEBUG Integrator:60 - Main frame executing on its own thread.
+2015-03-25 09:19:00 INFO  Integrator:61 - END
+2015-03-25 09:19:07 INFO  Resources:64 - Got new resource bundle for language-country: pt-BR
+2015-03-25 09:19:08 INFO  MainFrame:54 - Initializing....
+2015-03-25 09:19:08 DEBUG MainFrame:66 - Main panel created.
+2015-03-25 09:19:08 INFO  TabPanelSettingsEnvironmentsPanel:44 - Initializing....
+2015-03-25 09:19:09 DEBUG TabPanelSettingsEnvironmentsPanel:69 - Loading environment settings....
+2015-03-25 09:19:09 DEBUG TabPanelSettingsEnvironmentsPanel:75 - Environments loaded!
+2015-03-25 09:19:09 INFO  TabPanelSettingsEnvironmentsPanel:62 - Finished panel initialization.
+2015-03-25 09:19:09 DEBUG MainFrame:70 - Environment settings panel created.
+2015-03-25 09:19:09 INFO  TabPanelSettingsDatabasesPanel:44 - Initializing....
+2015-03-25 09:19:10 DEBUG TabPanelSettingsDatabasesPanel:69 - Loading environment settings....
+2015-03-25 09:19:10 DEBUG TabPanelSettingsDatabasesPanel:75 - Environments loaded!
+2015-03-25 09:19:10 INFO  TabPanelSettingsDatabasesPanel:62 - Finished panel initialization.
+2015-03-25 09:19:10 DEBUG MainFrame:74 - JDBC settings panel created.
+2015-03-25 09:19:10 INFO  TabPanelBilling:71 - Initializing....
+2015-03-25 09:19:11 INFO  TabPanelBilling:81 - Finished panel initialization.
+2015-03-25 09:19:11 DEBUG MainFrame:79 - Billing panel created.
+2015-03-25 09:19:11 INFO  MainFrameMenuBar:64 - Creating Frame Menu Bar....
+2015-03-25 09:19:11 DEBUG MainFrameMenuBar:144 - File menu created.
+2015-03-25 09:19:11 DEBUG MainFrameMenuBar:214 - Edit menu created.
+2015-03-25 09:19:11 DEBUG MainFrameMenuBar:243 - View menu created.
+2015-03-25 09:19:11 DEBUG MainFrameMenuBar:274 - Tools menu created.
+2015-03-25 09:19:11 DEBUG MainFrameMenuBar:293 - Help menu created.
+2015-03-25 09:19:11 INFO  MainFrameMenuBar:92 - Frame Menu Bar successfully created
+2015-03-25 09:19:11 DEBUG MainFrame:91 - Menu bar created.
+2015-03-25 09:19:11 INFO  MainFrame:95 - Finished main frame initialization.
